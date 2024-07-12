@@ -34,7 +34,7 @@ function App() {
           <h2>Law Converter</h2>
           <p>Convert the law into a more readable format</p>
           <input 
-          type="number" 
+          type="text" 
           placeholder="Enter the law here"
           value={ipc_law}
           onChange={(e) => setLaw(e.target.value)}
