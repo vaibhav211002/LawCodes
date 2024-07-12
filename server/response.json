@@ -1,0 +1,3448 @@
+[
+      {
+        "bnsSection": "1(1)",
+        "Subject": "Short title, commencement and application.",
+        "IpcSection": "1",
+        "change": "This subject is covered by six subsections of Section 1 of BNS, corresponding to five separate sections of IPC, sans separate headings thereof. In IPC, the extent of code operation is also given, which is absent in BNS."
+      },
+      {
+        "bnsSection": "1(2)",
+        "Subject": "Commencement.",
+        "IpcSection": "New",
+        "change": "By subsection 1(2) of the BNS, the power to appoint the date of commencement is delegated to the Central Government, which was absent in the IPC."
+      },
+      {
+        "bnsSection": "1(3)",
+        "Subject": "Punishment of offences committed within India.",
+        "IpcSection": "2",
+        "change": "No change except 'Code' is replaced with 'Sanhita'. Wherever the word 'Code' is used in IPC, the word 'Sanhita' is used in BNS; therefore, this fact will not be specifically mentioned in this table hereinafter."
+      },
+      {
+        "bnsSection": "1(4)",
+        "Subject": "Punishment of offences committed beyond, which by law may be tried within, India.",
+        "IpcSection": "3",
+        "change": "Section is included as a subsection in BNS sans heading. 'Indian laws' is replaced with 'law' and 'for the time being in force in India' is inserted."
+      },
+      {
+        "bnsSection": "1(5)",
+        "Subject": "Short title, commencement and application- Extension of Code to extra-territorial offences.",
+        "IpcSection": "4",
+        "change": "Section is included as a subsection in BNS sans heading. In the illustration, 'Uganda' has been replaced with 'any place outside India.'"
+      },
+      {
+        "bnsSection": "1(6)",
+        "Subject": "Short title, commencement and application- 'Certain laws not to be affected by this Act'.",
+        "IpcSection": "5",
+        "change": "IpcSection is included as a subsection in BNS sans heading."
+      },
+      {
+        "bnsSection": "2",
+        "Subject": "Definitions.",
+        "IpcSection": "In the IPC, definitions are not consolidated in a single section; instead, they are given in independent sections from Section 8 to Section 52A in Chapter II, 'General Explanations'. These have been conveniently organised and consolidated in a single section, i.e., Section-2, in alphabetical order as sub sections with Arabic numerals to facilitate easier reference."
+      },
+      {
+        "bnsSection": "2(1)",
+        "Subject": "act",
+        "IpcSection": "33",
+        "change": "In the IPC, Section 33 addressed both 'Act' and 'Omission' collectively. However, in the BNS, 'act' and 'omission' are separately defined in sub-sections 2(1) and 2(25) respectively."
+      },
+      {
+        "bnsSection": "2(2)",
+        "Subject": "animal",
+        "IpcSection": "47",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(3)",
+        "Subject": "child",
+        "IpcSection": "New",
+        "change": "Definition of 'child' in section 2(3) of BNS (child- any person below the age of eighteen years.) This is a new addition."
+      },
+      {
+        "bnsSection": "2(4)",
+        "Subject": "Counterfeit",
+        "IpcSection": "28",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(5)",
+        "Subject": "Court",
+        "IpcSection": "20",
+        "change": "Section 2(5) of BNS excludes the illustration and uses the word 'Court' in place of the words 'Court of Justice'."
+      },
+      {
+        "bnsSection": "2(6)",
+        "Subject": "Death",
+        "IpcSection": "46",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(7)",
+        "Subject": "Dishonestly",
+        "IpcSection": "24",
+        "change": "Words 'whoever does' and 'is said to do that thing dishonestly' are excluded."
+      },
+      {
+        "bnsSection": "2(8)",
+        "Subject": "Document",
+        "IpcSection": "29",
+        "change": "Words 'and includes electronic and digital record' are added. bnsSection 2(8) incorporates both the sections 29 and 29A of IPC and adds digital records."
+      },
+      {
+        "bnsSection": "2(8)",
+        "Subject": "Document",
+        "IpcSection": "29A",
+        "change": "Words 'and includes electronic and digital record' are added. bnsSection 2(8) incorporates both the sections 29 and 29A of IPC and adds digital records."
+      },
+      {
+        "bnsSection": "2(9)",
+        "Subject": "Fraudulently",
+        "IpcSection": "25",
+        "change": "Phraseology changed but essence is same."
+      },
+      {
+        "bnsSection": "2(10)",
+        "Subject": "Gender",
+        "IpcSection": "8",
+        "change": "Word 'transgender' is added apart from genders of 'male' and 'female'."
+      },
+      {
+        "bnsSection": "2(11)",
+        "Subject": "Good faith",
+        "IpcSection": "52",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(12)",
+        "Subject": "Government",
+        "IpcSection": "17",
+        "change": "Words 'Government of a State' are replaced by 'State Government'."
+      },
+      {
+        "bnsSection": "2(13)",
+        "Subject": "Harbour",
+        "IpcSection": "52A",
+        "change": "Words 'Except in section 157 and in section 130, in the case in which the harbour is given by the wife or husband of the person harboured, the word' have been excluded."
+      },
+      {
+        "bnsSection": "2(14)",
+        "Subject": "Injury",
+        "IpcSection": "44",
+        "change": "Word 'denotes' is replaced with 'means'."
+      },
+      {
+        "bnsSection": "2(15)",
+        "Subject": "Illegal and legally bound to do",
+        "IpcSection": "43",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(16)",
+        "Subject": "Judge",
+        "IpcSection": "19",
+        "change": "Simplified the definition of Judge, paragraphs are given numbers (i) and (ii). Out of four illustrations, only (b) is kept, while (a), (c), and (d) are excluded."
+      },
+      {
+        "bnsSection": "2(17)",
+        "Subject": "Life",
+        "IpcSection": "45",
+        "change": "Word 'denotes' is replaced with 'means'."
+      },
+      {
+        "bnsSection": "2(18)",
+        "Subject": "Local law",
+        "IpcSection": "42",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(19)",
+        "Subject": "Man",
+        "IpcSection": "10",
+        "change": "The word 'denotes' is replaced with 'means'. Unlike in IpcSection 10, 'man' and 'woman' are bifurcated into two subsections, 2(19) and 2(35) in BNS."
+      },
+      {
+        "bnsSection": "2(20)",
+        "Subject": "Month and year",
+        "IpcSection": "49",
+        "change": "'British calendar' is replaced by 'Gregorian calendar'."
+      },
+      {
+        "bnsSection": "2(21)",
+        "Subject": "Movable property",
+        "IpcSection": "22",
+        "change": "By removing word 'corporeal' the scope is expanded."
+      },
+      {
+        "bnsSection": "2(22)",
+        "Subject": "Number.",
+        "IpcSection": "9",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(23)",
+        "Subject": "Oath.",
+        "IpcSection": "51",
+        "change": "'Court of Justice' is changed to 'Court'."
+      },
+      {
+        "bnsSection": "2(24)",
+        "Subject": "Offence.",
+        "IpcSection": "40",
+        "change": "Word 'denotes' is replaced by 'means'."
+      },
+      {
+        "bnsSection": "2(25)",
+        "Subject": "Omission.",
+        "IpcSection": "33",
+        "change": "Words 'Act' and 'Omission' are bifurcated into two subsections 2(1) and 2(25) respectively."
+      },
+      {
+        "bnsSection": "2(26)",
+        "Subject": "Person.",
+        "IpcSection": "11",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(27)",
+        "Subject": "Public.",
+        "IpcSection": "12",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(28)",
+        "Subject": "Public servant.",
+        "IpcSection": "21",
+        "change": "'Military, Naval' are replaced by 'Army, and Navy' respectively. 'Juryman' is excluded."
+      },
+      {
+        "bnsSection": "2(29)",
+        "Subject": "Reason to believe.",
+        "IpcSection": "26",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(30)",
+        "Subject": "Special law.",
+        "IpcSection": "41",
+        "change": "The word 'is' is replaced by 'means'."
+      },
+      {
+        "bnsSection": "2(31)",
+        "Subject": "Valuable security.",
+        "IpcSection": "30",
+        "change": "Word 'denotes' replaced by 'means'."
+      },
+      {
+        "bnsSection": "2(32)",
+        "Subject": "Vessel.",
+        "IpcSection": "48",
+        "change": "Word 'denotes' replaced by 'means'."
+      },
+      {
+        "bnsSection": "2(33)",
+        "Subject": "Voluntarily.",
+        "IpcSection": "39",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(34)",
+        "Subject": "Will.",
+        "IpcSection": "31",
+        "change": "'A will' is replaced by 'Will'."
+      },
+      {
+        "bnsSection": "2(35)",
+        "Subject": "Woman.",
+        "IpcSection": "10",
+        "change": "The corresponding section of the IPC contains definitions of man and woman both whereas the BNS deals with them in separate provisions 2(19) and 2(35), respectively."
+      },
+      {
+        "bnsSection": "2(36)",
+        "Subject": "Wrongful gain.",
+        "IpcSection": "23-1",
+        "change": "Word 'is' is replaced by 'means'."
+      },
+      {
+        "bnsSection": "2(37)",
+        "Subject": "Wrongful loss.",
+        "IpcSection": "23-2",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "2(38)",
+        "Subject": "Gaining wrongfully, losing wrongfully.",
+        "IpcSection": "23-3",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "2(39)",
+        "Subject": "Words and expressions used but not defined.",
+        "IpcSection": "29A",
+        "change": "The scope of Section 29A IPC is broadened. For words and expressions used in BNS but not defined in BNS but defined in IT Act, 2000 and Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), they shall have the meanings respectively assigned to them in that Act and Sanhita."
+      },
+      {
+        "bnsSection": "3(1)",
+        "Subject": "General explanations.",
+        "IpcSection": "6",
+        "change": "Section is included as sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "3(2)",
+        "Subject": "General explanations- Sense of expression once explained.",
+        "IpcSection": "7",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "3(3)",
+        "Subject": "General explanations- Property in possession of wife, clerk or servant.",
+        "IpcSection": "27",
+        "change": "Section is included as a sub-section in BNS sans heading. 'Wife' is replaced by 'Spouse'."
+      },
+      {
+        "bnsSection": "3(4)",
+        "Subject": "General explanations-'Words referring to acts include illegal omissions'.",
+        "IpcSection": "32",
+        "change": "Section is included as sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "3(5)",
+        "Subject": "General explanations- Acts done by several persons in furtherance of common intention.",
+        "IpcSection": "34",
+        "change": "Section is included as sub-section in BNS sans heading. No other change."
+      },
+      {
+        "bnsSection": "3(6)",
+        "Subject": "General explanations- When such an act is criminal by reason of its being done with a criminal knowledge or intention.",
+        "IpcSection": "35",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "3(7)",
+        "Subject": "General explanations- Effect caused partly by act and partly by omission.",
+        "IpcSection": "36",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "3(8)",
+        "Subject": "General explanations- Co-operation by doing one of several acts constituting an offence.",
+        "IpcSection": "37",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "3(9)",
+        "Subject": "General explanations- Persons concerned in Criminal act may be guilty of different offences.",
+        "IpcSection": "38",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "4",
+        "Subject": "Punishments.",
+        "IpcSection": "53",
+        "change": "'Community service' is added to punishments. The definition of community service is not given in BNS, but the explanation in Section 23 of the BNSS defines it as the 'work which the court may order a convict to perform as a form of punishment that benefits the community, for which he shall not be entitled to any remuneration'."
+      },
+      {
+        "bnsSection": "5",
+        "Subject": "Commutation of sentence.",
+        "IpcSection": "54",
+        "change": "In this section, a cross reference to BNSS has been made, whereas IPC does not refer to CrPC in this context."
+      },
+      {
+        "bnsSection": "5",
+        "Subject": "Commutation of sentence.",
+        "IpcSection": "55",
+        "change": "In this section, a cross reference to BNSS has been made, whereas IPC does not refer to CrPC in this context."
+      },
+      {
+        "bnsSection": "Explanation to section 5",
+        "Subject": "Commutation of sentence.",
+        "IpcSection": "55A",
+        "change": "The heading is dropped as the IpcSection is given as an explanation in BNS. The expression 'for the purposes of this' is added."
+      },
+      {
+        "bnsSection": "6",
+        "Subject": "Fractions of terms of punishment.",
+        "IpcSection": "57",
+        "change": "Words 'unless otherwise provided' are added."
+      },
+      {
+        "bnsSection": "7",
+        "Subject": "Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.",
+        "IpcSection": "60",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "8(1)",
+        "Subject": "Amount of fine, liability in default of payment of fine, etc.",
+        "IpcSection": "63",
+        "change": "IpcSection is included as subsection in BNS with addition of words 'liability in default of payment of fine, etc.' in heading."
+      },
+      {
+        "bnsSection": "8(2)",
+        "Subject": "Sentence of imprisonment for non-payment of fine.",
+        "IpcSection": "64",
+        "change": "IpcSection is included as sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "8(3)",
+        "Subject": "Limit to imprisonment for non-payment of fine, when imprisonment and fine awardable.",
+        "IpcSection": "65",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "8(4)",
+        "Subject": "Description of imprisonment for non-payment of fine.",
+        "IpcSection": "66",
+        "change": "The IpcSection is included as a sub-section in BNS, sans heading. 'or in default of community service' is added."
+      },
+      {
+        "bnsSection": "8(5)",
+        "Subject": "Imprisonment for non-payment of fine, when offence punishable with fine only.",
+        "IpcSection": "67",
+        "change": "IpcSection is included as sub-section in BNS, sans heading. Words 'or in default of community service' are added. Imprisonment and fine are increased."
+      },
+      {
+        "bnsSection": "8(6)",
+        "Subject": "Imprisonment to terminate on payment of fine. Termination of imprisonment on payment of proportional part of fine.",
+        "IpcSection": "68",
+        "change": "Heading is dropped as two sections of IPC are merged in this one sub-section of BNS."
+      },
+      {
+        "bnsSection": "8(6)",
+        "Subject": "Imprisonment to terminate on payment of fine. Termination of imprisonment on payment of proportional part of fine.",
+        "IpcSection": "69",
+        "change": "Heading is dropped as two sections of IPC are merged in this one sub-section of BNS."
+      },
+      {
+        "bnsSection": "8(7)",
+        "Subject": "Fine leviable within six years, or during imprisonment. Death not to discharge property from liability.",
+        "IpcSection": "70",
+        "change": "Section is included as sub-section in BNS, sans heading."
+      },
+      {
+        "bnsSection": "9",
+        "Subject": "Limit of punishment of offence made up of several offences.",
+        "IpcSection": "71",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "10",
+        "Subject": "Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which.",
+        "IpcSection": "72",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "11",
+        "Subject": "Solitary confinement.",
+        "IpcSection": "73",
+        "change": "Word 'that is to say' is replaced with 'namely'."
+      },
+      {
+        "bnsSection": "12",
+        "Subject": "Limit of solitary confinement.",
+        "IpcSection": "74",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "13",
+        "Subject": "Enhanced punishment for certain offences after previous conviction.",
+        "IpcSection": "75",
+        "change": "No changes were made except for the corresponding chapter numbers mentioned in heading are dropped in BNS."
+      },
+      {
+        "bnsSection": "14",
+        "Subject": "Act done by a person bound, or by mistake of fact believing himself bound, by law.",
+        "IpcSection": "76",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "15",
+        "Subject": "Act of Judge when acting judicially.",
+        "IpcSection": "77",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "16",
+        "Subject": "Act done pursuant to the judgment or order of Court.",
+        "IpcSection": "78",
+        "change": "Words 'Court of Justice' is replaced by 'Court'."
+      },
+      {
+        "bnsSection": "17",
+        "Subject": "Act done by a person justified, or by mistake of fact believing himself justified, by law.",
+        "IpcSection": "79",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "18",
+        "Subject": "Accident in doing a lawful act.",
+        "IpcSection": "80",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "19",
+        "Subject": "Act likely to cause harm, but done without criminal intent, and to prevent other harm.",
+        "IpcSection": "81",
+        "change": "Word 'steam' is excluded in illustration."
+      },
+      {
+        "bnsSection": "20",
+        "Subject": "Act of a child under seven years of age.",
+        "IpcSection": "82",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "21",
+        "Subject": "Act of a child above seven and under twelve of immature understanding.",
+        "IpcSection": "83",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "22",
+        "Subject": "Act of a person of unsound mind.",
+        "IpcSection": "84",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "23",
+        "Subject": "Act of a person incapable of judgment by reason of intoxication caused against his will.",
+        "IpcSection": "85",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "24",
+        "Subject": "Offence requiring a particular intent or knowledge committed by one who is intoxicated.",
+        "IpcSection": "86",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "25",
+        "Subject": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent.",
+        "IpcSection": "87",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "26",
+        "Subject": "Act not intended to cause death, done by consent in good faith for person's benefit.",
+        "IpcSection": "88",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "27",
+        "Subject": "Act done in good faith for benefit of child or person, by or by consent of guardian.",
+        "IpcSection": "89",
+        "change": "Words 'insane person' are replaced with 'person of unsound mind'."
+      },
+      {
+        "bnsSection": "28",
+        "Subject": "Consent known to be given under fear or misconception.",
+        "IpcSection": "90",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "29",
+        "Subject": "Exclusion of acts which are offences independently of harm caused.",
+        "IpcSection": "91",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "30",
+        "Subject": "Act done in good faith for benefit of a person without consent.",
+        "IpcSection": "92",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "31",
+        "Subject": "Communication made in good faith.",
+        "IpcSection": "93",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "32",
+        "Subject": "Act to which a person is compelled by threats.",
+        "IpcSection": "94",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "33",
+        "Subject": "Act causing slight harm.",
+        "IpcSection": "95",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "34",
+        "Subject": "Things done in private defence.",
+        "IpcSection": "96",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "35",
+        "Subject": "Right of private defence of body and of property.",
+        "IpcSection": "97",
+        "change": "Paragraphs are rephrased as clauses (a), (b), (c)."
+      },
+      {
+        "bnsSection": "36",
+        "Subject": "Right of private defence against the act of a person of unsound mind, etc.",
+        "IpcSection": "98",
+        "change": "In Illustrations, words 'under the influence of madness' are replaced by 'a person of unsound mind'."
+      },
+      {
+        "bnsSection": "37",
+        "Subject": "Act against which there is no right to private defence. Extent to which the right may be exercised.",
+        "IpcSection": "99",
+        "change": "The IpcSection is reframed into two subsections, and the first paragraph is reframed as sub-section 1 with clauses (a), (b), and (c). The second paragraph is reproduced as subsection (2) sans heading."
+      },
+      {
+        "bnsSection": "38",
+        "Subject": "When the right of private defence of property extends to causing death.",
+        "IpcSection": "100",
+        "change": "First, secondly, thirdly, fourthly, fifthly, sixthly, seventhly are replaced with (a),(b),(c),(d),(e),(f),(g)."
+      },
+      {
+        "bnsSection": "39",
+        "Subject": "When such right extends to causing any harm other than death.",
+        "IpcSection": "101",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "40",
+        "Subject": "Commencement and continuance of the right of private defence of the body.",
+        "IpcSection": "102",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "41",
+        "Subject": "When the right of private defence of property extends to causing death.",
+        "IpcSection": "103",
+        "change": "Words 'by night' are replaced by 'after sunset and before sunrise' and 'Mischief by fire' is replaced by 'Mischief by fire or any explosive substance'."
+      },
+      {
+        "bnsSection": "42",
+        "Subject": "When such right extends to causing any harm other than death.",
+        "IpcSection": "104",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "43",
+        "Subject": "Commencement and continuance of the right of private defence of property.",
+        "IpcSection": "105",
+        "change": "Words 'by night' are replaced by 'after sunset and before sunrise'."
+      },
+      {
+        "bnsSection": "44",
+        "Subject": "Right of private defence against deadly assault when there is risk of harm to innocent person.",
+        "IpcSection": "106",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "45",
+        "Subject": "Abetment of a thing.",
+        "IpcSection": "107",
+        "change": "Words 'Court of justice' are replaced with 'Court'."
+      },
+      {
+        "bnsSection": "46",
+        "Subject": "Abettor.",
+        "IpcSection": "108",
+        "change": "Word 'lunatic' is replaced by words 'a person of unsound mind'."
+      },
+      {
+        "bnsSection": "47",
+        "Subject": "Abetment in India of offences outside India.",
+        "IpcSection": "108A",
+        "change": "Word 'Goa' is replaced by 'country X' in illustration."
+      },
+      {
+        "bnsSection": "48",
+        "Subject": "Abetment outside India for offence in India.",
+        "IpcSection": "Newly Added",
+        "change": "“A person abets an offence within the meaning of this Sanhita who, without and beyond India, abets the commission of any act in India which would constitute an offence if committed in India”."
+      },
+      {
+        "bnsSection": "49",
+        "Subject": "Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment.",
+        "IpcSection": "109",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "50",
+        "Subject": "Punishment of abetment if person abetted does act with different intention from that of abettor.",
+        "IpcSection": "110",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "51",
+        "Subject": "Liability of abettor when one act abetted and different act done.",
+        "IpcSection": "111",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "52",
+        "Subject": "Abettor when liable to cumulative punishment for act abetted and for act done.",
+        "IpcSection": "112",
+        "change": "Words 'the last preceding section' is replaced by 'section 51'."
+      },
+      {
+        "bnsSection": "53",
+        "Subject": "Liability of abettor for an effect caused by the act abetted different from that intended by the abettor.",
+        "IpcSection": "113",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "54",
+        "Subject": "Abettor present when offence committed.",
+        "IpcSection": "114",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "55",
+        "Subject": "Abetment of offence punishable with death or imprisonment for life.",
+        "IpcSection": "115",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "56",
+        "Subject": "Abetment of offence punishable with imprisonment.",
+        "IpcSection": "116",
+        "change": "The words 'if offence be not committed' are excluded from the heading. The heading of paragraph 2, 'If abettor or person abetted be a public servant whose duty it is to prevent offence' is excluded. The word 'by' is replaced by 'under'."
+      },
+      {
+        "bnsSection": "57",
+        "Subject": "Abetting commission of offence by the public or by more than ten persons.",
+        "IpcSection": "117",
+        "change": "Imprisonment is increased from three years to seven years."
+      },
+      {
+        "bnsSection": "58",
+        "Subject": "Concealing design to commit offence punishable with death or imprisonment for life.",
+        "IpcSection": "118",
+        "change": "Words 'in either case' are excluded from clause (b)."
+      },
+      {
+        "bnsSection": "59",
+        "Subject": "Public servant concealing design to commit offence which it is his duty to prevent.",
+        "IpcSection": "119",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "60",
+        "Subject": "Concealing design to commit offence punishable with imprisonment.",
+        "IpcSection": "120",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "61(1)",
+        "Subject": "Criminal conspiracy definition.",
+        "IpcSection": "120A",
+        "change": "IpcSection is included as sub-section in BNS."
+      },
+      {
+        "bnsSection": "61(2)",
+        "Subject": "Criminal conspiracy punishment.",
+        "IpcSection": "120B",
+        "change": "IpcSection is included as sub-section in BNS, sans heading."
+      },
+      {
+        "bnsSection": "62",
+        "Subject": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.",
+        "IpcSection": "511",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "63",
+        "Subject": "Rape definition.",
+        "IpcSection": "375",
+        "change": "Age of Consent: 15 years is replaced by 18 years in BNS. Exception 2 of Section 63 states that 'sexual intercourse or acts by a man with his wife, the wife not being under 18 years of age, is not rape'."
+      },
+      {
+        "bnsSection": "64",
+        "Subject": "Punishment for rape.",
+        "IpcSection": "376(1)",
+        "change": "Word 'military' is replaced with 'army'."
+      },
+      {
+        "bnsSection": "64",
+        "Subject": "Punishment for rape.",
+        "IpcSection": "376(2)",
+        "change": "Word 'military' is replaced with 'army'."
+      },
+      {
+        "bnsSection": "65(1)",
+        "Subject": "Punishment for rape in certain cases- rape on a woman under sixteen years.",
+        "IpcSection": "376(3)",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "65(2)",
+        "Subject": "Punishment for rape in certain cases- rape on a woman under twelve years.",
+        "IpcSection": "376AB",
+        "change": "Section is included as sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "66",
+        "Subject": "Punishment for causing death or resulting in persistent vegetative state of victim.",
+        "IpcSection": "376A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "67",
+        "Subject": "Sexual intercourse by husband upon his wife during separation.",
+        "IpcSection": "376B",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "68",
+        "Subject": "Sexual intercourse by a person in authority.",
+        "IpcSection": "376C",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "69",
+        "Subject": "Sexual intercourse by employing deceitful means etc.",
+        "IpcSection": "Newly Added",
+        "change": "“Whoever, by deceitful means or by making promise to marry to a woman without any intention of fulfilling the same, has sexual intercourse with her, such sexual intercourse not amounting to the offence of rape, shall be punished with imprisonment of either description for a term which may extend to ten years and shall also be liable to fine. Explanation. — “deceitful means” shall include inducement for, or false promise of employment or promotion, or marrying by suppressing identity.”"
+      },
+      {
+        "bnsSection": "70(1)",
+        "Subject": "Gang rape.",
+        "IpcSection": "376D",
+        "change": "No Change except IpcSection is included as subsection in BNS."
+      },
+      {
+        "bnsSection": "70(2)",
+        "Subject": "Gang rape on women under the age of eighteen.",
+        "IpcSection": "376DB",
+        "change": "In 376DB IPC, the age of the victim is 12 years, and punishment is the death penalty. In 70(2) BNS, the age of the victim is under 18 years, and punishment is the death penalty. Section is included as a sub-section in BNS, sans heading."
+      },
+      {
+        "bnsSection": "71",
+        "Subject": "Punishment for repeat offenders.",
+        "IpcSection": "376E",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "72",
+        "Subject": "Disclosure of identity of victim of certain offences etc.",
+        "IpcSection": "228A(1)",
+        "change": "Word 'minor' is replaced by 'child'."
+      },
+      {
+        "bnsSection": "72",
+        "Subject": "Disclosure of identity of victim of certain offences etc.",
+        "IpcSection": "228A(2)",
+        "change": "Word 'minor' is replaced by 'child'."
+      },
+      {
+        "bnsSection": "73",
+        "Subject": "Printing or publishing any matter relating to court proceedings without permission.",
+        "IpcSection": "228A(3)",
+        "change": "Sub-section of IPC is treated as individual section in BNS with heading."
+      },
+      {
+        "bnsSection": "74",
+        "Subject": "Assault or use of criminal force to woman with intent to outrage her modesty.",
+        "IpcSection": "354",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "75",
+        "Subject": "Sexual harassment.",
+        "IpcSection": "354A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "76",
+        "Subject": "Assault or use of criminal force to woman with intent disrobe.",
+        "IpcSection": "354B",
+        "change": "Words 'Any man who' is replaced by 'Whoever'."
+      },
+      {
+        "bnsSection": "77",
+        "Subject": "Voyeurism.",
+        "IpcSection": "354C",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "78",
+        "Subject": "Stalking.",
+        "IpcSection": "354D",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "79",
+        "Subject": "Word, gesture or act intended to insult the modesty of a woman.",
+        "IpcSection": "509",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "80",
+        "Subject": "Dowry death.",
+        "IpcSection": "304B",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "81",
+        "Subject": "Cohabitation caused by man deceitfully inducing belief of lawful marriage.",
+        "IpcSection": "493",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "82(1)",
+        "Subject": "Marrying again during lifetime of husband or wife.",
+        "IpcSection": "494",
+        "change": "IpcSection is included as a sub-section."
+      },
+      {
+        "bnsSection": "82(2)",
+        "Subject": "Marrying again during lifetime of husband or wife with concealment of former marriage from person with whom subsequent marriage is contracted.",
+        "IpcSection": "495",
+        "change": "IpcSection is included as sub-section in BNS sans heading. Words 'defined in last preceding section' are excluded."
+      },
+      {
+        "bnsSection": "83",
+        "Subject": "Marriage ceremony fraudulently gone through without lawful marriage.",
+        "IpcSection": "496",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "84",
+        "Subject": "Enticing or taking away or detaining with criminal intent a married Woman.",
+        "IpcSection": "498",
+        "change": "The words 'from that man or from any person having the care of her on behalf of that man' are excluded."
+      },
+      {
+        "bnsSection": "85",
+        "Subject": "Husband or relative of husband of a woman subjecting her to cruelty.",
+        "IpcSection": "498A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "86",
+        "Subject": "Cruelty defined.",
+        "IpcSection": "498A",
+        "change": "IpcSection 498A has been bifurcated into Sections 85 and 86. The IPC explanation part has been provided in Section 86 BNS under the heading Cruelty defined."
+      },
+      {
+        "bnsSection": "87",
+        "Subject": "Kidnapping or abducting in order to murder or for ransom, etc.",
+        "IpcSection": "366",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "88",
+        "Subject": "Causing miscarriage.",
+        "IpcSection": "312",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "89",
+        "Subject": "Causing miscarriage without woman’s consent.",
+        "IpcSection": "313",
+        "change": "In place of words 'defined in last preceding section' previous section number is mentioned in BNS."
+      },
+      {
+        "bnsSection": "90",
+        "Subject": "Death caused by act done with intent to cause miscarriage.",
+        "IpcSection": "314",
+        "change": "Heading of para-2 'if act done without woman’s consent' is excluded. The words 'Where the act referred to in sub-section (1)' are added."
+      },
+      {
+        "bnsSection": "91",
+        "Subject": "Act done with intent to prevent child being born alive or to cause it to die after birth.",
+        "IpcSection": "315",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "92",
+        "Subject": "Causing death of quick unborn child by act amounting to culpable homicide.",
+        "IpcSection": "316",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "93",
+        "Subject": "Exposure and abandonment of child under twelve years, by parent or person having care of it.",
+        "IpcSection": "317",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "94",
+        "Subject": "Concealment of birth by secret disposal of dead body.",
+        "IpcSection": "318",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "95",
+        "Subject": "Hiring, employing or engaging a child to commit an offence.",
+        "IpcSection": "Newly Added",
+        "change": "“Whoever hires, employs or engages any child to commit an offence shall be punished with imprisonment of either description which shall not be less than three years but which may extend to ten years, and with fine; and if the offence be committed shall also be punished with the punishment provided for that offence as if the offence has been committed by such person himself.\nExplanation. — Hiring, employing, engaging or using a child for sexual exploitation or pornography is covered within the meaning of this section”."
+      },
+      {
+        "bnsSection": "96",
+        "Subject": "Procuration of child.",
+        "IpcSection": "366A",
+        "change": "Words “minor girl under the age of eighteen years” are replaced by word “child” and made gender neutral."
+      },
+      {
+        "bnsSection": "97",
+        "Subject": "Kidnapping or abducting child under ten years with intent to steal from its person.",
+        "IpcSection": "369",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "98",
+        "Subject": "Selling minor for purposes of prostitution, etc.",
+        "IpcSection": "372",
+        "change": "“minor” is replaced by “child” in heading and words “any person under the age of eighteen years” are replaced by the word \"child\"."
+      },
+      {
+        "bnsSection": "99",
+        "Subject": "Buying minor for purposes of prostitution, etc.",
+        "IpcSection": "373",
+        "change": "Minimum mandatory punishment is introduced as seven years, and the upper limit of imprisonment is extended up to fourteen years in BNS, in place of ten years in IPC. Words “any person under the age of eighteen years” are replaced by the word \"child\"."
+      },
+      {
+        "bnsSection": "100",
+        "Subject": "Culpable homicide.",
+        "IpcSection": "299",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "101",
+        "Subject": "Murder.",
+        "IpcSection": "300",
+        "change": "Formal changes, but essence is the same, Secondly, thirdly, and fourthly, are replaced by clauses (a), (b), (c), and (d). The word “it” is replaced by the words \"the act by which death is caused\"."
+      },
+      {
+        "bnsSection": "102",
+        "Subject": "Culpable homicide by causing death of person other than person whose death was intended.",
+        "IpcSection": "301",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "103(1)",
+        "Subject": "Punishment for murder.",
+        "IpcSection": "302",
+        "change": "No Change, except IpcSection is included as subsection in BNS."
+      },
+      {
+        "bnsSection": "103(2)",
+        "Subject": "Punishment for murder.",
+        "IpcSection": "Newly Added",
+        "change": "“When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine”."
+      },
+      {
+        "bnsSection": "104",
+        "Subject": "Punishment for murder by life-convict.",
+        "IpcSection": "303",
+        "change": "BNS gives an alternate punishment for the life-convict murderer as death 'or with imprisonment for life, which shall mean the remainder of that person’s natural life', whereas in IPC, only punishment is a death sentence for murder by a life convict."
+      },
+      {
+        "bnsSection": "105",
+        "Subject": "Punishment for culpable homicide not amounting to murder.",
+        "IpcSection": "304",
+        "change": "Minimum imprisonment for five years is added and fine is made mandatory."
+      },
+      {
+        "bnsSection": "106(1)",
+        "Subject": "Causing death by negligence.",
+        "IpcSection": "304A",
+        "change": "IpcSection is included as subsection in BNS. Imprisonment is increased and offence by registered medical practitioner and its explanation are added."
+      },
+      {
+        "bnsSection": "106(2)",
+        "Subject": "Causing death by negligence.",
+        "IpcSection": "Newly Added",
+        "change": "This is a new addition, but it will not come into force from 1st July 2024 with other new laws, it is kept on hold."
+      },
+      {
+        "bnsSection": "107",
+        "Subject": "Abetment of suicide of child or person of unsound mind.",
+        "IpcSection": "305",
+        "change": "Formal changes but essence is same- 'insane person' is replaced by 'person of unsound mind'."
+      },
+      {
+        "bnsSection": "108",
+        "Subject": "Abetment of suicide.",
+        "IpcSection": "306",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "109",
+        "Subject": "Attempt to murder.",
+        "IpcSection": "307",
+        "change": "Under IPC, Section 307 Clause 2 prescribes the death penalty only for an attempt to murder by a life-convict, but alternate punishment is given in Section 109(2) of the BNS, which states that 'be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life'."
+      },
+      {
+        "bnsSection": "110",
+        "Subject": "Attempt to commit culpable homicide.",
+        "IpcSection": "308",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "111",
+        "Subject": "Organized crime.",
+        "IpcSection": "Newly Added",
+        "change": "Newly added section. “Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cyber-crimes, trafficking of persons, drugs, weapons or illicit goods or services, human trafficking for prostitution or ransom, by any person or a group of persons acting in concert, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence,intimidation, coercion, or by any other unlawful means to obtain direct or indirect material benefit including a financial benefit, shall constitute organised crime”."
+      },
+      {
+        "bnsSection": "112",
+        "Subject": "Petty organized crime.",
+        "IpcSection": "Newly Added",
+        "change": "Newly added section. “Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime”."
+      },
+      {
+        "bnsSection": "113",
+        "Subject": "Terrorist act.",
+        "IpcSection": "Newly Added",
+        "change": "Newly added section."
+      },
+      {
+        "bnsSection": "114",
+        "Subject": "Hurt.",
+        "IpcSection": "319",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "115(1)",
+        "Subject": "Voluntarily causing hurt.",
+        "IpcSection": "321",
+        "change": "No Change except IpcSection is included as subsection in BNS."
+      },
+      {
+        "bnsSection": "115(2)",
+        "Subject": "Punishment for voluntarily causing hurt.",
+        "IpcSection": "323",
+        "change": "Section is included as sub-section in BNS sans heading. Fine is increased (which may extend to ten thousand rupees)."
+      },
+      {
+        "bnsSection": "116",
+        "Subject": "Grievous hurt definition.",
+        "IpcSection": "320",
+        "change": "Suffering threshold period for grievous hurt is reduced from twenty days to fifteen days."
+      },
+      {
+        "bnsSection": "117(1)",
+        "Subject": "Voluntarily causing grievous hurt punishment.",
+        "IpcSection": "322",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "117(2)",
+        "Subject": "Punishment for voluntarily causing grievous hurt.",
+        "IpcSection": "325",
+        "change": "Formal changes but essence is same."
+      },
+      {
+        "bnsSection": "117(3)",
+        "Subject": "Voluntarily causing grievous hurt.",
+        "IpcSection": "Newly Added",
+        "change": "New addition. “Whoever commits an offence under sub-section (1) and in the course of such commission causes any hurt to a person which causes that person to be in permanent disability or in persistent vegetative state, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life”."
+      },
+      {
+        "bnsSection": "117(4)",
+        "Subject": "Voluntarily causing grievous hurt.",
+        "IpcSection": "Newly Added",
+        "change": "New addition. “When a group of five or more persons acting in concert, causes grievous hurt to a person on the ground of his race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member of such group shall be guilty of the offence of causing grievous hurt, and shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine”."
+      },
+      {
+        "bnsSection": "118(1)",
+        "Subject": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means.",
+        "IpcSection": "324",
+        "change": "IpcSection is included as a sub-section in BNS. Fine is increased which may extend to twenty thousand rupees and words “'grievous hurt” are added in heading."
+      },
+      {
+        "bnsSection": "118(2)",
+        "Subject": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means.",
+        "IpcSection": "326",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Mandatory minimum imprisonment for one year is added."
+      },
+      {
+        "bnsSection": "119(1)",
+        "Subject": "Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.",
+        "IpcSection": "327",
+        "change": "No change except that the IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "119(2)",
+        "Subject": "Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.",
+        "IpcSection": "329",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. The words “any purpose referred to in sub-section (1)” is added."
+      },
+      {
+        "bnsSection": "120(1)",
+        "Subject": "Voluntarily causing hurt or grievous hurt to extort confession or to compel restoration of property.",
+        "IpcSection": "330",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "120(2)",
+        "Subject": "Voluntarily causing grievous hurt to extort confession, or to compel restoration of property.",
+        "IpcSection": "331",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Words “any purpose referred to in sub-section (1)” are added."
+      },
+      {
+        "bnsSection": "121(1)",
+        "Subject": "Voluntarily causing hurt to deter public servant from his duty.",
+        "IpcSection": "332",
+        "change": "IpcSection is included as a subsection in BNS. Imprisonment is increased from three to five years."
+      },
+      {
+        "bnsSection": "121(2)",
+        "Subject": "Voluntarily causing grievous hurt to deter public servant from his duty.",
+        "IpcSection": "333",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Mandatory minimum imprisonment of one year is added."
+      },
+      {
+        "bnsSection": "122(1)",
+        "Subject": "Voluntarily causing provocation hurt on.",
+        "IpcSection": "334",
+        "change": "IpcSection is included as a subsection in BNS. Fine is increased from five hundred to five thousand rupees."
+      },
+      {
+        "bnsSection": "122(2)",
+        "Subject": "Voluntarily causing grievous hurt on provocation.",
+        "IpcSection": "335",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Imprisonment is increased from four to five years and fine is increased from two thousand to ten thousand rupees."
+      },
+      {
+        "bnsSection": "123",
+        "Subject": "Causing harm by means of poison etc with intent to commit an offence.",
+        "IpcSection": "328",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "124(1)",
+        "Subject": "Voluntarily causing grievous hurt by use of acid etc.",
+        "IpcSection": "326A",
+        "change": "The IpcSection is included as a subsection in BNS. Words “causes a person to be in a permanent vegetative state\" are added in Section 124(1) of the BNS."
+      },
+      {
+        "bnsSection": "124 (2)",
+        "Subject": "Voluntarily causing grievous hurt by throwing or attempting to throw acid.",
+        "IpcSection": "326B",
+        "change": "IpcSection is included as a sub-section in BNS, sans heading. Words 'permanent vegetative state' are added."
+      },
+      {
+        "bnsSection": "125",
+        "Subject": "Act endangering life or personal safety of others.",
+        "IpcSection": "336",
+        "change": "Fine is increased from rupees two hundred and fifty to two thousand five hundred."
+      },
+      {
+        "bnsSection": "125 (a)",
+        "Subject": "Where hurt is caused.",
+        "IpcSection": "337",
+        "change": "Fine is increased from five hundred to five thousand rupees."
+      },
+      {
+        "bnsSection": "125 (b)",
+        "Subject": "Where grievous hurt is caused.",
+        "IpcSection": "338",
+        "change": "Imprisonment is increased from two years to three years and fine is increased from one thousand to ten thousand rupees."
+      },
+      {
+        "bnsSection": "126 (1)",
+        "Subject": "Wrongful restraint.",
+        "IpcSection": "339",
+        "change": "IpcSection is included as a subsection in BNS."
+      },
+      {
+        "bnsSection": "126 (2)",
+        "Subject": "Punishment for Wrongful restraint.",
+        "IpcSection": "341",
+        "change": "IpcSection is included as a sub-section in BNS, sans heading. Fine is increased from five hundred rupees to five thousand rupees."
+      },
+      {
+        "bnsSection": "127 (1)",
+        "Subject": "Wrongful confinement.",
+        "IpcSection": "340",
+        "change": "IpcSection is included as a subsection in BNS."
+      },
+      {
+        "bnsSection": "127 (2)",
+        "Subject": "Punishment for Wrongful confinement.",
+        "IpcSection": "342",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "127 (3)",
+        "Subject": "Wrongful confinement for three or more days.",
+        "IpcSection": "343",
+        "change": "The IpcSection is included as a sub-section in the BNS sans heading. Imprisonment is increased from two years to three years, and the fine is extended up to ten thousand rupees."
+      },
+      {
+        "bnsSection": "127 (4)",
+        "Subject": "Wrongful confinement for ten or more days.",
+        "IpcSection": "344",
+        "change": "The IpcSection is included as a sub-section in the BNS sans heading. Imprisonment is increased from three to five years, and a minimum fine of ten thousand rupees is stipulated."
+      },
+      {
+        "bnsSection": "127 (5)",
+        "Subject": "Wrongful confinement of person for whose liberation writ has been issued.",
+        "IpcSection": "345",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Fine is added."
+      },
+      {
+        "bnsSection": "127 (6)",
+        "Subject": "Wrongful confinement in secret.",
+        "IpcSection": "346",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Imprisonment is increased from two to three years and fine is added."
+      },
+      {
+        "bnsSection": "127 (7)",
+        "Subject": "Wrongful confinement to extort property, or constrain to illegal act.",
+        "IpcSection": "347",
+        "change": "No Change except that IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "127 (8)",
+        "Subject": "Wrongful confinement to extort confession, or compel restoration of property.",
+        "IpcSection": "348",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. No other change."
+      },
+      {
+        "bnsSection": "128",
+        "Subject": "Force.",
+        "IpcSection": "349",
+        "change": "There is a change in phraseology; also, first, secondly, and thirdly have been replaced with (a), (b), and (c )."
+      },
+      {
+        "bnsSection": "129",
+        "Subject": "Criminal force.",
+        "IpcSection": "350",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "130",
+        "Subject": "Assault.",
+        "IpcSection": "351",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "131",
+        "Subject": "Punishment for assault or criminal force otherwise than on grave provocation.",
+        "IpcSection": "352",
+        "change": "Fine is increased from five hundred to one thousand rupees."
+      },
+      {
+        "bnsSection": "132",
+        "Subject": "Assault or criminal force to deter public servant from discharge of his duty.",
+        "IpcSection": "353",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "133",
+        "Subject": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation.",
+        "IpcSection": "355",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "134",
+        "Subject": "Assault or criminal force in attempt to commit theft of property carried by a person.",
+        "IpcSection": "356",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "135",
+        "Subject": "Assault or criminal force in attempt to wrongfully confine a person.",
+        "IpcSection": "357",
+        "change": "Fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "136",
+        "Subject": "Assault or criminal force on grave provocation.",
+        "IpcSection": "358",
+        "change": "Fine is increased from two hundred to one thousand rupees."
+      },
+      {
+        "bnsSection": "137(1)",
+        "Subject": "Kidnapping.",
+        "IpcSection": "359",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "137(1)(a)",
+        "Subject": "Kidnapping from India.",
+        "IpcSection": "360",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "137(1)(b)",
+        "Subject": "Kidnapping from lawful guardianship.",
+        "IpcSection": "361",
+        "change": "The IpcSection is included as a clause in the BNS. Words “minor under the age of sixteen years of male or under eighteen years of age if a female” are replaced by “child” thus making it gender neutral."
+      },
+      {
+        "bnsSection": "137(2)",
+        "Subject": "Punishment for kidnapping.",
+        "IpcSection": "363",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "138",
+        "Subject": "Abduction.",
+        "IpcSection": "362",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "139",
+        "Subject": "Kidnapping or maiming a child for purposes of begging.",
+        "IpcSection": "363A",
+        "change": "The word “minor” is replaced by 'child'. The word 'rigorous' is added. Imprisonment is extended up to life, i.e., imprisonment for the remainder of that person’s natural life. The clause (b) of sub-section (4) definition is excluded."
+      },
+      {
+        "bnsSection": "140(1)",
+        "Subject": "Kidnapping or abducting in order to murder, etc.",
+        "IpcSection": "364",
+        "change": "No Change except that IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "140(2)",
+        "Subject": "Kidnapping for ransom, etc.",
+        "IpcSection": "364A",
+        "change": "Section is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "140(3)",
+        "Subject": "Kidnapping or abducting with intent secretly and wrongfully to confine person.",
+        "IpcSection": "365",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "140(4)",
+        "Subject": "Kidnapping or abducting in order to subject person to grievous hurt, slavery, etc.",
+        "IpcSection": "367",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "141",
+        "Subject": "Importation of girl or boy from foreign country.",
+        "IpcSection": "366B",
+        "change": "Words “any boy under the age of eighteen years” added and “she” is replaced by “girl or boy”."
+      },
+      {
+        "bnsSection": "142",
+        "Subject": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person.",
+        "IpcSection": "368",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "143",
+        "Subject": "Trafficking of person.",
+        "IpcSection": "370",
+        "change": "Word “minor” is replaced by “child”."
+      },
+      {
+        "bnsSection": "144",
+        "Subject": "Exploitation of a trafficked person.",
+        "IpcSection": "370A",
+        "change": "The upper limit of imprisonment is increased from seven years to ten years, and for sub-section (2), from five years to seven years. “minor” is replaced by “child”."
+      },
+      {
+        "bnsSection": "145",
+        "Subject": "Habitual dealing in slaves.",
+        "IpcSection": "371",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "146",
+        "Subject": "Unlawful compulsory labour.",
+        "IpcSection": "374",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "147",
+        "Subject": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India.",
+        "IpcSection": "121",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "148",
+        "Subject": "Conspiracy to commit offences punishable by Section 147.",
+        "IpcSection": "121A",
+        "change": "“and beyond” is added."
+      },
+      {
+        "bnsSection": "149",
+        "Subject": "Collecting arms, etc., with intention of waging war against the Government of India.",
+        "IpcSection": "122",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "150",
+        "Subject": "Concealing with intent to facilitate design to wage war.",
+        "IpcSection": "123",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "151",
+        "Subject": "Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power.",
+        "IpcSection": "124",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "152",
+        "Subject": "Act endangering sovereignty, unity and integrity of India.",
+        "IpcSection": "Newly Added",
+        "change": "Newly added section. “Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial mean, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or With imprisonment which may extend to seven years, and shall also be liable to fine.”"
+      },
+      {
+        "bnsSection": "153",
+        "Subject": "Waging war against Government of any Foreign State at peace with Government of India.",
+        "IpcSection": "125",
+        "change": "Words “any Asiatic power in alliance” are replaced by “Government of any foreign State at peace”."
+      },
+      {
+        "bnsSection": "154",
+        "Subject": "Committing depredation on territories of Foreign State at peace with Government of India.",
+        "IpcSection": "126",
+        "change": "Words “any power in alliance” are replaced by “any foreign State”."
+      },
+      {
+        "bnsSection": "155",
+        "Subject": "Receiving property taken by war or depredation mentioned in Sections 153 and 154.",
+        "IpcSection": "127",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "156",
+        "Subject": "Public servant voluntarily allowing prisoner of State or war to escape.",
+        "IpcSection": "128",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "157",
+        "Subject": "Public servant negligently suffering such prisoner to escape.",
+        "IpcSection": "129",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "158",
+        "Subject": "Aiding escape of, rescuing or harbouring such prisoner.",
+        "IpcSection": "130",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "159",
+        "Subject": "Abetting mutiny, attempting to seduce a soldier, sailor or airman from his duty.",
+        "IpcSection": "131",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "160",
+        "Subject": "Abetment of mutiny, if mutiny is committed in consequence thereof.",
+        "IpcSection": "132",
+        "change": "Upper limit of imprisonment is increased from three years to ten years."
+      },
+      {
+        "bnsSection": "161",
+        "Subject": "Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office.",
+        "IpcSection": "133",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "162",
+        "Subject": "Abetment of such assault, if the assault is committed.",
+        "IpcSection": "134",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "163",
+        "Subject": "Abetment of desertion of soldier, sailor or airman.",
+        "IpcSection": "135",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "164",
+        "Subject": "Harbouring deserter.",
+        "IpcSection": "136",
+        "change": "Word “wife” is replaced by “spouse” in the exception of this section thereby made gender neutral."
+      },
+      {
+        "bnsSection": "165",
+        "Subject": "Deserter concealed on board, of master merchant vessel through negligence.",
+        "IpcSection": "137",
+        "change": "Upper limit of fine is increased from five hundred to three thousand rupees."
+      },
+      {
+        "bnsSection": "166",
+        "Subject": "Abetment of act of insubordination by soldier, sailor or airman.",
+        "IpcSection": "138",
+        "change": "Upper limit of imprisonment is increased from six months to two years."
+      },
+      {
+        "bnsSection": "167",
+        "Subject": "Persons subject to certain Acts.",
+        "IpcSection": "139",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "168",
+        "Subject": "Wearing garb or carrying token used by soldier, sailor or airman.",
+        "IpcSection": "140",
+        "change": "“Military” is replaced by \"Army.\" The upper limit of the fine has been increased from five hundred to two thousand rupees."
+      },
+      {
+        "bnsSection": "169",
+        "Subject": "Candidate, electoral right defined.",
+        "IpcSection": "171A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "170",
+        "Subject": "Bribery.",
+        "IpcSection": "171B",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "171",
+        "Subject": "Undue influence at elections.",
+        "IpcSection": "171C",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "172",
+        "Subject": "Personation at elections.",
+        "IpcSection": "171D",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "173",
+        "Subject": "Punishment for bribery.",
+        "IpcSection": "171E",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "174",
+        "Subject": "Punishment for undue influence or personation at an election.",
+        "IpcSection": "171F",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "175",
+        "Subject": "False statement in connection with an election.",
+        "IpcSection": "171G",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "176",
+        "Subject": "Illegal payment in connection with an election.",
+        "IpcSection": "171H",
+        "change": "Upper limit of fine is increased from five hundred to ten thousand rupees."
+      },
+      {
+        "bnsSection": "177",
+        "Subject": "Failure to keep election accounts.",
+        "IpcSection": "171-I",
+        "change": "Upper limit of fine is increased from five hundred to five thousand rupees."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "230",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "231",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "232",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "246",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "247",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "248",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "249",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "255",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "178",
+        "Subject": "Counterfeiting coin, Government stamps, currency-notes or bank-notes.",
+        "IpcSection": "489A",
+        "change": "Nine sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by eight. Illustrations given u/s 230 IPC are excluded."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "237",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "238",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "239",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "240",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "241",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "250",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "251",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "254",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "258",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "260",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "179",
+        "Subject": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "489B",
+        "change": "Eleven sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by ten."
+      },
+      {
+        "bnsSection": "180",
+        "Subject": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "242",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five. 'not constitute an offence' is added."
+      },
+      {
+        "bnsSection": "180",
+        "Subject": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "243",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five. 'not constitute an offence' is added."
+      },
+      {
+        "bnsSection": "180",
+        "Subject": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "252",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five. 'not constitute an offence' is added."
+      },
+      {
+        "bnsSection": "180",
+        "Subject": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "253",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five. 'not constitute an offence' is added."
+      },
+      {
+        "bnsSection": "180",
+        "Subject": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "259",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five. 'not constitute an offence' is added."
+      },
+      {
+        "bnsSection": "180",
+        "Subject": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.",
+        "IpcSection": "489C",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five. 'not constitute an offence' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "233",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "234",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "235",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "256",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "257",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "489D",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "233",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "234",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "235",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "256",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "257",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "181",
+        "Subject": "Making or possessing instruments or materials for forging or counterfeiting coin, govt stamps, currency notes or bank notes.",
+        "IpcSection": "489D",
+        "change": "Six sections of IPC have been covered in this single section of BNS. Thus, in a single stroke, the number of sections and offences has been reduced by five, and 'any coin, stamp issued by Government for the purpose of revenue' is added."
+      },
+      {
+        "bnsSection": "182",
+        "Subject": "Making or using documents resembling currency-notes or bank-notes.",
+        "IpcSection": "489E",
+        "change": "Upper limit of fine is increased from one hundred to three hundred rupees and two hundred to six hundred rupees."
+      },
+      {
+        "bnsSection": "183",
+        "Subject": "Effacing, writing from substance bearing Government stamp, removing from document a stamp used for it, with intent to cause loss to Government.",
+        "IpcSection": "261",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "184",
+        "Subject": "Using Government stamp known to have been before used.",
+        "IpcSection": "262",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "185",
+        "Subject": "Erasure of mark denoting that stamp has been used.",
+        "IpcSection": "263",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "186",
+        "Subject": "Prohibition of fictitious stamps.",
+        "IpcSection": "263A",
+        "change": "Words 'and also in any part of Her Majesty’s dominions' are excluded."
+      },
+      {
+        "bnsSection": "187",
+        "Subject": "Person employed in mint causing coin to be of different weight or composition from that fixed by law.",
+        "IpcSection": "244",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "188",
+        "Subject": "Unlawfully taking coining instrument from mint.",
+        "IpcSection": "245",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "189(1)",
+        "Subject": "Unlawful assembly.",
+        "IpcSection": "141",
+        "change": "First, second, third, fourth, fifth, have been replaced by (a), (b), ( c), (d) and( e)."
+      },
+      {
+        "bnsSection": "189(2)",
+        "Subject": "Unlawful assembly- Being member of unlawful assembly.",
+        "IpcSection": "142",
+        "change": "Section is included as a sub-section in BNS sans heading. No other Changes."
+      },
+      {
+        "bnsSection": "189(3)",
+        "Subject": "Unlawful assembly- Joining or continuing in unlawful assembly, knowing it has been commanded to disperse.",
+        "IpcSection": "145",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "189(4)",
+        "Subject": "Unlawful assembly- Joining unlawful assembly armed with deadly weapon.—",
+        "IpcSection": "144",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "189(5)",
+        "Subject": "Unlawful assembly- Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse.—",
+        "IpcSection": "151",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "189(6)",
+        "Subject": "Unlawful assembly- Hiring, or conniving at hiring, of persons to join unlawful assembly.",
+        "IpcSection": "150",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "189(7)",
+        "Subject": "Unlawful assembly- Harbouring persons hired for an unlawful assembly.",
+        "IpcSection": "157",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "189(8)",
+        "Subject": "Unlawful assembly- Being hired to take part in an unlawful assembly or riot. Or to go armed.",
+        "IpcSection": "158",
+        "change": "IpcSection 158 both paragraphs, are reproduced in two different sub-sections (8) and (9) of 189 BNS sans heading."
+      },
+      {
+        "bnsSection": "190",
+        "Subject": "Every member of unlawful assembly guilty of offence committed in prosecution of common object.",
+        "IpcSection": "149",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "191(1)",
+        "Subject": "Rioting-Offence defined.",
+        "IpcSection": "146",
+        "change": "This IpcSection defines the offence which is included in BNS as a sub-section."
+      },
+      {
+        "bnsSection": "191(2)",
+        "Subject": "Rioting- Punishment for rioting.",
+        "IpcSection": "147",
+        "change": "IpcSection is included as a sub-section in BNS, sans heading."
+      },
+      {
+        "bnsSection": "191(3)",
+        "Subject": "Rioting- Being armed with deadly weapon.—",
+        "IpcSection": "148",
+        "change": "IpcSection is included as a sub-section in BNS, sans heading. Upper limit of imprisonment is increased from three years to five years."
+      },
+      {
+        "bnsSection": "192",
+        "Subject": "Wantonly giving provocation with intent to cause riot if rioting be committed if not committed.",
+        "IpcSection": "153",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "193(1)",
+        "Subject": "Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place.",
+        "IpcSection": "154",
+        "change": "Section is included as a sub-section in BNS. Words 'Liability of' and 'or riot' are added in the heading."
+      },
+      {
+        "bnsSection": "193(2)",
+        "Subject": "Liability of person for whose benefit riot is committed.",
+        "IpcSection": "155",
+        "change": "Section is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "193(3)",
+        "Subject": "Liability of agent of owner or occupier for whose benefit riot is committed.",
+        "IpcSection": "156",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "194(1)",
+        "Subject": "Affray- defined.",
+        "IpcSection": "159",
+        "change": "IpcSection is included as a subsection in BNS."
+      },
+      {
+        "bnsSection": "194 (2)",
+        "Subject": "Punishment for Affray.",
+        "IpcSection": "160",
+        "change": "Section is included as a sub-section in BNS sans heading. Upper limit of fine is increased from one hundred to one thousand rupees."
+      },
+      {
+        "bnsSection": "195(1)",
+        "Subject": "Assaulting or obstructing public servant when suppressing riot, etc.",
+        "IpcSection": "152",
+        "change": "The Section 152 in the IPC regarding 'assaulting or obstructing public servants when suppressing riots, etc.' has been divided into two parts and included in Section 195 of the new law (BNS): one for the offence of assaulted in the section of public servants and the other for threatening to assault or attempt to obstruct, having different punishments and fines. The minimum threshold for a fine is twenty-five thousand rupees, and ‘or uses criminal force on any public servant' is added."
+      },
+      {
+        "bnsSection": "195(2)",
+        "Subject": "Assaulting or obstructing public servant when suppressing riot, etc.",
+        "IpcSection": "152",
+        "change": "In cases where the offender threatens to assault or attempts to obstruct a public servant or threatens or attempts to use criminal force on a public servant in the described situations, the punishment includes imprisonment of a term that may extend to one year. A fine may also be imposed under this sub-section. This is a rare case of a reduction in punishment."
+      },
+      {
+        "bnsSection": "196",
+        "Subject": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony.",
+        "IpcSection": "153A",
+        "change": "The word 'or through electronic communication' is added as one of the modes of spreading disharmony, etc."
+      },
+      {
+        "bnsSection": "197",
+        "Subject": "Imputations, assertions prejudicial to national integration.",
+        "IpcSection": "153B",
+        "change": "Words 'or through electronic communication' as the mode of spreading specified activities are added."
+      },
+      {
+        "bnsSection": "197(1)d",
+        "Subject": "Makes or publishes false or misleading information, jeopardising the sovereignty, unity and integrity or security of India.",
+        "New": "New Clause 197(1)(d) “makes or publishes false or misleading information, jeopardising the sovereignty, unity and integrity or security of India”."
+      },
+      {
+        "bnsSection": "198",
+        "Subject": "Public servant disobeying law, with intent to cause injury to any person.",
+        "IpcSection": "166",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "199",
+        "Subject": "Public servant disobeying direction under law.",
+        "IpcSection": "166A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "200",
+        "Subject": "Punishment for non-treatment of victim.",
+        "IpcSection": "166B",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "201",
+        "Subject": "Public servant framing an incorrect document with intent to cause injury.",
+        "IpcSection": "167",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "202",
+        "Subject": "Public servant unlawfully engaging in trade.",
+        "IpcSection": "168",
+        "change": "New punishment of 'community service' is added."
+      },
+      {
+        "bnsSection": "203",
+        "Subject": "Public servant unlawfully buying or bidding for property.",
+        "IpcSection": "169",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "204",
+        "Subject": "Personating a public servant.",
+        "IpcSection": "170",
+        "change": "Mandatory minimum imprisonment is introduced as six months and upper limit is increased from two years to three years."
+      },
+      {
+        "bnsSection": "205",
+        "Subject": "Wearing garb or carrying token used by public servant with fraudulent intent.",
+        "IpcSection": "171",
+        "change": "Upper limit of fine is increased from rupees two hundred to five thousand."
+      },
+      {
+        "bnsSection": "206",
+        "Subject": "Absconding to avoid service of summons or other proceeding.",
+        "IpcSection": "172",
+        "change": "The upper limit of the fine is increased from five hundred to five thousand rupees and one thousand to ten thousand rupees; 'Court of justice' is replaced by 'Court' etc."
+      },
+      {
+        "bnsSection": "207",
+        "Subject": "Preventing service of summons or other proceeding, or preventing publication thereof.",
+        "IpcSection": "173",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "208",
+        "Subject": "Non-attendance in obedience to an order from public servant.",
+        "IpcSection": "174",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "209",
+        "Subject": "Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik Suraksha Sanhita,2023.",
+        "IpcSection": "174A",
+        "change": "New punishment of 'as with community service' is added in regard to proclamation under section 84(1) BNSS [82(1) CrPC]."
+      },
+      {
+        "bnsSection": "210",
+        "Subject": "Omission to produce document or electronic record to public servant by person, legally bound to produce it.",
+        "IpcSection": "175",
+        "change": "The upper limit of the fine has been increased from five hundred to five thousand rupees and from one thousand to ten thousand rupees. 'Court of Justice' is replaced by 'Court'."
+      },
+      {
+        "bnsSection": "211",
+        "Subject": "Omission to give notice or information to public servant by person legally bound to give it.",
+        "IpcSection": "176",
+        "change": "Upper limit of fine are increased from five hundred to five thousand rupees and one thousand to ten thousand rupees."
+      },
+      {
+        "bnsSection": "212",
+        "Subject": "Furnishing false information.",
+        "IpcSection": "177",
+        "change": "The upper limit of the fine has been increased from one thousand to five thousand rupees. 'Bound under clause 5, section VII, Regulation III, 1821, of the Bengal Code' is replaced by 'legally bound' in the illustration (b)."
+      },
+      {
+        "bnsSection": "213",
+        "Subject": "Refusing oath or affirmation when duly required by public servant to make it.",
+        "IpcSection": "178",
+        "change": "Upper limit of fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "214",
+        "Subject": "Refusing to answer public servant authorised to question.",
+        "IpcSection": "179",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "215",
+        "Subject": "Refusing to sign statement.",
+        "IpcSection": "180",
+        "change": "Upper limit of fine is increased from five hundred to three thousand rupees."
+      },
+      {
+        "bnsSection": "216",
+        "Subject": "False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation.",
+        "IpcSection": "181",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "217",
+        "Subject": "False information, with intent to cause public servant to use his lawful power to the injury of another person.",
+        "IpcSection": "182",
+        "change": "The upper limit of imprisonment increased from six months to one year, and the fine increased from one thousand to ten thousand rupees."
+      },
+      {
+        "bnsSection": "218",
+        "Subject": "Resistance to the taking of property by the lawful authority of a public servant.",
+        "IpcSection": "183",
+        "change": "Upper limit of fine has been increased from one thousand to ten thousand rupees."
+      },
+      {
+        "bnsSection": "219",
+        "Subject": "Obstructing sale of property offered by authority of public servant for sale.",
+        "IpcSection": "184",
+        "change": "Upper limit of fine has been increased from five hundred to five thousand rupees."
+      },
+      {
+        "bnsSection": "220",
+        "Subject": "Illegal purchase or bid for property offered for sale by authority of public servant.",
+        "IpcSection": "185",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "221",
+        "Subject": "Obstructing public servant in discharge of public functions.",
+        "IpcSection": "186",
+        "change": "Upper limit of fine is increased from five hundred to two thousand and five hundred rupees."
+      },
+      {
+        "bnsSection": "222",
+        "Subject": "Omission to assist public servant when bound by law to give assistance.",
+        "IpcSection": "187",
+        "change": "Section is reorganized in the form of clauses (a) and (b) without changing the essence, and the upper limit of the fine is increased from two hundred to two thousand and five hundred rupees and five hundred to five thousand rupees."
+      },
+      {
+        "bnsSection": "223",
+        "Subject": "Disobedience to order duly promulgated by public servant.",
+        "IpcSection": "188",
+        "change": "The section is reorganized in the form of clauses (a) and (b). In clause (a), the upper limit of imprisonment is increased from one month to six months, and the fine is increased from two hundred to two thousand and five hundred rupees. In clause (b), the limit of imprisonment is increased from six months to one year, and the fine from one thousand rupees to five thousand rupees."
+      },
+      {
+        "bnsSection": "224",
+        "Subject": "Threat of injury to public servant.",
+        "IpcSection": "189",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "225",
+        "Subject": "Threat of injury to induce person to refrain from applying for protection.",
+        "IpcSection": "190",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "226",
+        "Subject": "Attempt to commit suicide to compel or restrain from applying or restrain of lawful power.",
+        "IpcSection": "New",
+        "change": "“Whoever attempts to commit suicide with the intent to compel or restrain any public servant from discharging his official duty shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service”."
+      },
+      {
+        "bnsSection": "227",
+        "Subject": "Giving false evidence.",
+        "IpcSection": "191",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "228",
+        "Subject": "Fabricating false evidence.",
+        "IpcSection": "192",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "229",
+        "Subject": "Punishment for false evidence.",
+        "IpcSection": "193",
+        "change": "Fine is defined in sub-section (1) as up to ten thousand rupees and in sub-section (2) as up to five thousand rupees."
+      },
+      {
+        "bnsSection": "230",
+        "Subject": "Giving or fabricating false evidence with intent to procure conviction of capital offence.",
+        "IpcSection": "194",
+        "change": "Fine defined in this section as up to fifty thousand rupees."
+      },
+      {
+        "bnsSection": "231",
+        "Subject": "Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment.",
+        "IpcSection": "195",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "232",
+        "Subject": "Threatening any person to give false evidence.",
+        "IpcSection": "195A",
+        "change": "Reorganized in form of sub-section (1) and (2) without changing a word."
+      },
+      {
+        "bnsSection": "233",
+        "Subject": "Using evidence known to be false.",
+        "IpcSection": "196",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "234",
+        "Subject": "Issuing or signing false certificate.",
+        "IpcSection": "197",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "235",
+        "Subject": "Using as true a certificate known to be false.",
+        "IpcSection": "198",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "236",
+        "Subject": "False statement made in declaration which is by law receivable as evidence.",
+        "IpcSection": "199",
+        "change": "Words “Court of Justice” is replaced by “Court”."
+      },
+      {
+        "bnsSection": "237",
+        "Subject": "Using as true such declaration knowing it to be false.",
+        "IpcSection": "200",
+        "change": "“this section” is used instead of \"200\" (section) in the explanation of IPC u/s 200 IPC."
+      },
+      {
+        "bnsSection": "238",
+        "Subject": "Causing disappearance of evidence, or giving false information to screen offender.",
+        "IpcSection": "201",
+        "change": "Clauses named as (a), (b), (c) sans heading."
+      },
+      {
+        "bnsSection": "239",
+        "Subject": "Intentional omission to give information of offence by person bound to inform.",
+        "IpcSection": "202",
+        "change": "Fine defined in this section is five thousand rupees, whereas in IPC fine is not defined."
+      },
+      {
+        "bnsSection": "240",
+        "Subject": "Giving false information respecting an offence committed.",
+        "IpcSection": "203",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "241",
+        "Subject": "Destruction of document or electronic record to prevent its production as evidence.",
+        "IpcSection": "204",
+        "change": "The upper limit of imprisonment increased from two years to three years, and the fine is defined as up to five thousand rupees."
+      },
+      {
+        "bnsSection": "242",
+        "Subject": "False personation for purpose of act or proceeding in suit or prosecution.",
+        "IpcSection": "205",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "243",
+        "Subject": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.",
+        "IpcSection": "206",
+        "change": "The upper limit of imprisonment increased from two years to three years, and the fine is defined as up to five thousand rupees. “Court of Justice” is replaced by “Court”."
+      },
+      {
+        "bnsSection": "244",
+        "Subject": "Fraudulent claim to property to prevent its seizure as forfeited or in execution.",
+        "IpcSection": "207",
+        "change": "“Court of Justice” is replaced by “Court”."
+      },
+      {
+        "bnsSection": "245",
+        "Subject": "Fraudulently suffering decree for sum not due.",
+        "IpcSection": "208",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "246",
+        "Subject": "Dishonestly making false claim in Court.",
+        "IpcSection": "209",
+        "change": "“'Court of Justice” is replaced by 'Court'."
+      },
+      {
+        "bnsSection": "247",
+        "Subject": "Fraudulently obtaining decree for sum not due.",
+        "IpcSection": "210",
+        "change": "IpcSection is reorganized in form of clauses (a), (b) in BNS."
+      },
+      {
+        "bnsSection": "248",
+        "Subject": "False charge of offence made with intent to injure.",
+        "IpcSection": "211",
+        "change": "The upper limit of imprisonment is increased from two years to five years and from seven years to ten years, and the fine is defined as up to two lakh rupees."
+      },
+      {
+        "bnsSection": "249",
+        "Subject": "Harbouring offender.",
+        "IpcSection": "212",
+        "change": "Section is reorganized in form of clauses (a), (b) and (c) and sub-headings are dropped. 'husband or wife' is replaced by 'spouse'."
+      },
+      {
+        "bnsSection": "250",
+        "Subject": "Taking gift, etc., to screen an offender from punishment.",
+        "IpcSection": "213",
+        "change": "Formal change but essence is same. Section is reorganized in form of clauses (a), (b) and (c) and sub-headings are dropped."
+      },
+      {
+        "bnsSection": "251",
+        "Subject": "Offering gift or restoration of property in consideration of screening offender.",
+        "IpcSection": "214",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "252",
+        "Subject": "Taking gift to help to recover stolen property, etc.",
+        "IpcSection": "215",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "253",
+        "Subject": "Harbouring offender who has escaped from custody or whose apprehension has been ordered.",
+        "IpcSection": "216",
+        "change": "Section is reorganized in form of clauses (a), (b) and (c) and sub-headings are dropped. “husband or wife” is replaced by “spouse”."
+      },
+      {
+        "bnsSection": "254",
+        "Subject": "Penalty for harbouring robbers or dacoits.",
+        "IpcSection": "216A",
+        "change": "Formal changes but essence is same- “husband or wife” is replaced by “spouse”."
+      },
+      {
+        "bnsSection": "255",
+        "Subject": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture.",
+        "IpcSection": "217",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "256",
+        "Subject": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture.",
+        "IpcSection": "218",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "257",
+        "Subject": "Public servant in judicial proceeding corruptly making report, etc. contrary to law.",
+        "IpcSection": "219",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "258",
+        "Subject": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law.",
+        "IpcSection": "220",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "259",
+        "Subject": "Intentional omission to apprehend on part of public servant bound to apprehend.",
+        "IpcSection": "221",
+        "change": "Section is reorganized in form of clauses (a), (b) and (c)."
+      },
+      {
+        "bnsSection": "260",
+        "Subject": "Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed.",
+        "IpcSection": "222",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "261",
+        "Subject": "Escape from confinement or custody negligently suffered by public servant.",
+        "IpcSection": "223",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "262",
+        "Subject": "Resistance or obstruction by a person to his lawful apprehension.",
+        "IpcSection": "224",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "263",
+        "Subject": "Resistance or obstruction to lawful apprehension of another person.",
+        "IpcSection": "225",
+        "change": "Section is reorganized in form of clauses (a), (b) and (c)."
+      },
+      {
+        "bnsSection": "264",
+        "Subject": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for.",
+        "IpcSection": "225A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "265",
+        "Subject": "Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for.",
+        "IpcSection": "225B",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "266",
+        "Subject": "Violation of condition of remission of punishment.",
+        "IpcSection": "227",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "267",
+        "Subject": "Intentional insult or interruption to public servant sitting in judicial proceeding.",
+        "IpcSection": "228",
+        "change": "Upper limit of fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "268",
+        "Subject": "Personation of assessor.",
+        "IpcSection": "229",
+        "change": "In heading “Personation of assessor” is used in place of “juror or assessor” and word 'juryman' is excluded."
+      },
+      {
+        "bnsSection": "269",
+        "Subject": "Failure by person released on bail or bond to appear in Court.",
+        "IpcSection": "229A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "270",
+        "Subject": "Public nuisance.",
+        "IpcSection": "268",
+        "change": "Two paragraphs were merged together with the help of the coordinating conjunction 'but'."
+      },
+      {
+        "bnsSection": "271",
+        "Subject": "Negligent act likely to spread infection of disease dangerous to life.",
+        "IpcSection": "269",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "272",
+        "Subject": "Malignant act likely to spread infection of disease dangerous to life.",
+        "IpcSection": "270",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "273",
+        "Subject": "Disobedience to quarantine rule.",
+        "IpcSection": "271",
+        "change": "Word 'vessel' is replaced by the phrase 'mode of transport etc.'"
+      },
+      {
+        "bnsSection": "274",
+        "Subject": "Adulteration of food or drink intended for sale.",
+        "IpcSection": "272",
+        "change": "Upper limit of fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "275",
+        "Subject": "Sale of noxious food or drink.",
+        "IpcSection": "273",
+        "change": "Upper limit of fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "276",
+        "Subject": "Adulteration of drugs.",
+        "IpcSection": "274",
+        "change": "Upper limit of imprisonment is increased from six months to one year and fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "277",
+        "Subject": "Sale of adulterated drugs.",
+        "IpcSection": "275",
+        "change": "Upper limit of fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "278",
+        "Subject": "Sale of drug as a different drug or preparation.",
+        "IpcSection": "276",
+        "change": "The upper limit of fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "279",
+        "Subject": "Fouling water of public spring or reservoir.",
+        "IpcSection": "277",
+        "change": "The upper limit of imprisonment is increased from three months to six months and fine is increased from five hundred to five thousand rupees."
+      },
+      {
+        "bnsSection": "280",
+        "Subject": "Making atmosphere noxious to health.",
+        "IpcSection": "278",
+        "change": "The upper limit of the fine is increased from five hundred to one thousand rupees."
+      },
+      {
+        "bnsSection": "281",
+        "Subject": "Rash driving or riding on a public way.",
+        "IpcSection": "279",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "282",
+        "Subject": "Rash navigation of vessel.",
+        "IpcSection": "280",
+        "change": "The upper limit of the fine has been increased from one thousand to ten thousand rupees."
+      },
+      {
+        "bnsSection": "283",
+        "Subject": "Exhibition of false light, mark or buoy.",
+        "IpcSection": "281",
+        "change": "Fine is added as punishment in addition to imprisonment. Rupees ten thousand is fixed as lower limit of fine. Word 'and' has replaced 'or'."
+      },
+      {
+        "bnsSection": "284",
+        "Subject": "Conveying person by water for hire in unsafe or overloaded vessel.",
+        "IpcSection": "282",
+        "change": "The upper limit of the fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "285",
+        "Subject": "Danger or obstruction in public way or line of navigation.",
+        "IpcSection": "283",
+        "change": "The upper limit of the fine is increased from two hundred to five thousand rupees."
+      },
+      {
+        "bnsSection": "286",
+        "Subject": "Negligent conduct with respect to poisonous substance.",
+        "IpcSection": "284",
+        "change": "The upper limit of the fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "287",
+        "Subject": "Negligent conduct with respect to fire or combustible matter.",
+        "IpcSection": "285",
+        "change": "The upper limit of the fine is increased from one thousand to two thousand rupees."
+      },
+      {
+        "bnsSection": "288",
+        "Subject": "Negligent conduct with respect to explosive substance.",
+        "IpcSection": "286",
+        "change": "The upper limit of the fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "289",
+        "Subject": "Negligent conduct with respect to machinery.",
+        "IpcSection": "287",
+        "change": "Upper limit of the fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "290",
+        "Subject": "Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.",
+        "IpcSection": "288",
+        "change": "BNS added \"or constructing”. The upper limit of the fine is increased from one thousand to five thousand rupees. “measures” replaces “order”."
+      },
+      {
+        "bnsSection": "291",
+        "Subject": "Negligent conduct with respect to animal.",
+        "IpcSection": "289",
+        "change": "Word “measure” replaces “order”. The upper limit of the fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "292",
+        "Subject": "Punishment for public nuisance in cases not otherwise provided for.",
+        "IpcSection": "290",
+        "change": "The upper limit of the fine is increased from two hundred to one thousand rupees."
+      },
+      {
+        "bnsSection": "293",
+        "Subject": "Continuance of nuisance after injunction to discontinue.",
+        "IpcSection": "291",
+        "change": "Fine is defined as up to five thousand rupees."
+      },
+      {
+        "bnsSection": "294",
+        "Subject": "Sale, etc., of obscene books, etc.",
+        "IpcSection": "292",
+        "change": "The fine is increased from two thousand to five thousand rupees and from five thousand to ten thousand rupees on subsequent conviction. “including display of any content in electronic form'” is added. “in whatever manner” is also added."
+      },
+      {
+        "bnsSection": "295",
+        "Subject": "Sale, etc., of obscene objects to young person.",
+        "IpcSection": "293",
+        "change": "“person under the age of twenty years” is replaced by “child”, thereby curtailing the scope of this provision."
+      },
+      {
+        "bnsSection": "296",
+        "Subject": "Obscene acts and songs.",
+        "IpcSection": "294",
+        "change": "Fine is defined as up to one thousand rupees."
+      },
+      {
+        "bnsSection": "297",
+        "Subject": "Keeping lottery office.",
+        "IpcSection": "294A",
+        "change": "The upper limit of the fine is increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "298",
+        "Subject": "Injuring or defiling place of worship with intent to insult the religion of any class.",
+        "IpcSection": "295",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "299",
+        "Subject": "Deliberate and malicious acts intended to outrage religious feelings of any class, by insulting its religion or religious beliefs.",
+        "IpcSection": "295A",
+        "change": "Words “or through electronic means” are added."
+      },
+      {
+        "bnsSection": "300",
+        "Subject": "Disturbing religious assembly.",
+        "IpcSection": "296",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "301",
+        "Subject": "Trespassing on burial places, etc.",
+        "IpcSection": "297",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "302",
+        "Subject": "Uttering words, etc., with deliberate intent to wound the religious feelings of any person.",
+        "IpcSection": "298",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "303(1)",
+        "Subject": "Theft.",
+        "IpcSection": "378",
+        "change": "IpcSection is included as sub-section. “Definition” is replaced by “Section” in explanation 5."
+      },
+      {
+        "bnsSection": "303(2)",
+        "Subject": "Punishment for theft.",
+        "IpcSection": "379",
+        "change": "Punishment for subsequent convictions is added."
+      },
+      {
+        "bnsSection": "304",
+        "Subject": "Snatching.",
+        "IpcSection": "Newly Added",
+        "change": "New addition."
+      },
+      {
+        "bnsSection": "305",
+        "Subject": "Theft in a dwelling house, or means of transportation or place of worship, etc.",
+        "IpcSection": "380",
+        "change": "The definition enlarged \"means of transportation or place of worship,' is added in the heading is reframed containing various sub-sections wherein sub-sections (b), (c), (d), (e) are new additions."
+      },
+      {
+        "bnsSection": "306",
+        "Subject": "Theft by clerk or servant of property in possession of master.",
+        "IpcSection": "381",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "307",
+        "Subject": "Theft after preparation made for causing death, hurt or restraint in order to committing of theft.",
+        "IpcSection": "382",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "308(1)",
+        "Subject": "Extortion.",
+        "IpcSection": "383",
+        "change": "Clause (e) is newly added in the illustrations."
+      },
+      {
+        "bnsSection": "308(2)",
+        "Subject": "Extortion punishment.",
+        "IpcSection": "384",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. The upper limit of the imprisonment is increased from three years to seven years."
+      },
+      {
+        "bnsSection": "308(3)",
+        "Subject": "Putting person in fear of injury in order to commit extortion.",
+        "IpcSection": "385",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. No other change."
+      },
+      {
+        "bnsSection": "308(4)",
+        "Subject": "Putting person in fear of death or of grievous hurt, in order to commit extortion.",
+        "IpcSection": "387",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "308(5)",
+        "Subject": "Extortion by putting a person in fear of death or grievous hurt.",
+        "IpcSection": "386",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "308(6)",
+        "Subject": "Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc.",
+        "IpcSection": "388",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Words “and, if the offence by punishable under section 377 of this Code, may be punished with imprisonment for life” are removed as the section 377 IPC has been excluded altogether."
+      },
+      {
+        "bnsSection": "308(7)",
+        "Subject": "Putting person in fear or accusation of offence, in order to commit extortion.",
+        "IpcSection": "389",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "309(1)",
+        "Subject": "Robbery- When theft is robbery When extortion is robbery.",
+        "IpcSection": "390",
+        "change": "Formal changes reorganized in form of clauses (1), (2), and (3) and sub-heading is dropped."
+      },
+      {
+        "bnsSection": "309(2)",
+        "Subject": "Robbery- When theft is robbery When extortion is robbery.",
+        "IpcSection": "390",
+        "change": "Formal changes reorganized in form of clauses (1), (2), and (3) and sub-heading is dropped."
+      },
+      {
+        "bnsSection": "309(3)",
+        "Subject": "Robbery- When theft is robbery When extortion is robbery.",
+        "IpcSection": "390",
+        "change": "Formal changes reorganized in form of clauses (1), (2), and (3) and sub-heading is dropped."
+      },
+      {
+        "bnsSection": "309(4)",
+        "Subject": "Robbery- Punishment for robbery.",
+        "IpcSection": "392",
+        "change": "IpcSection is included as sub-section in BNS sans heading. No other change."
+      },
+      {
+        "bnsSection": "309(5)",
+        "Subject": "Robbery- Attempt to commit robbery.",
+        "IpcSection": "393",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "309(6)",
+        "Subject": "Robbery- Voluntarily causing hurt in committing robbery.",
+        "IpcSection": "394",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "310(1)",
+        "Subject": "Dacoity definition.",
+        "IpcSection": "391",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "310(2)",
+        "Subject": "Dacoity punishment .",
+        "IpcSection": "395",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "310(3)",
+        "Subject": "Dacoity with murder.",
+        "IpcSection": "396",
+        "change": "IpcSection is included as sub-section in BNS sans heading. Minimum mandatory punishment of imprisonment is \"shall not be less than ten years\"."
+      },
+      {
+        "bnsSection": "310(4)",
+        "Subject": "Making preparation to commit dacoity.",
+        "IpcSection": "399",
+        "change": "IpcSection is included as sub-section in BNS sans heading. No other change."
+      },
+      {
+        "bnsSection": "310(5)",
+        "Subject": "Assembling for purpose of committing dacoity.",
+        "IpcSection": "402",
+        "change": "The IpcSection is included as sub-section in BNS, sans heading. Words “at any time after the passing of this Act, shall” is removed."
+      },
+      {
+        "bnsSection": "310(6)",
+        "Subject": "Punishment for belonging to gang of dacoits.",
+        "IpcSection": "400",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "311",
+        "Subject": "Robbery or dacoity, with attempt to cause death or grievous hurt.",
+        "IpcSection": "397",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "312",
+        "Subject": "Attempt to commit robbery or dacoity when armed with deadly weapon.",
+        "IpcSection": "398",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "313",
+        "Subject": "Punishment for belonging to gang of robbers, etc.",
+        "IpcSection": "401",
+        "change": "The word 'thieves' is replaced by “robbers” in the heading. The words “at any time after the passing of this Act, shall” “at wandering or other”and “for the purpose of” are excluded."
+      },
+      {
+        "bnsSection": "314",
+        "Subject": "Dishonest misappropriation of property.",
+        "IpcSection": "403",
+        "change": "Minimum mandatory imprisonment of six months and with fine added."
+      },
+      {
+        "bnsSection": "315",
+        "Subject": "Dishonest misappropriation of property possessed by deceased person at the time of his death.",
+        "IpcSection": "404",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "316(1)",
+        "Subject": "Criminal breach of trust.",
+        "IpcSection": "405",
+        "change": "Definition presented in BNS as a sub-section."
+      },
+      {
+        "bnsSection": "316(2)",
+        "Subject": "Punishment for criminal breach of trust.",
+        "IpcSection": "406",
+        "change": "IpcSection is included as sub-section in BNS sans heading. The upper limit of the imprisonment is increased from three years to five years."
+      },
+      {
+        "bnsSection": "316(3)",
+        "Subject": "Criminal breach of trust by carrier, etc.",
+        "IpcSection": "407",
+        "change": "Section is included as sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "316(4)",
+        "Subject": "Criminal breach of trust by clerk or servant.",
+        "IpcSection": "408",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "316(5)",
+        "Subject": "Criminal breach of trust by public servant, or by banker, merchant or agent.",
+        "IpcSection": "409",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "317(1)",
+        "Subject": "Stolen property.",
+        "IpcSection": "410",
+        "change": "Word 'cheating' is added."
+      },
+      {
+        "bnsSection": "317(2)",
+        "Subject": "Dishonestly receiving stolen property.",
+        "IpcSection": "411",
+        "change": "IpcSection is included as sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "317(3)",
+        "Subject": "Dishonestly receiving property stolen in the commission of a dacoity.",
+        "IpcSection": "412",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "317(4)",
+        "Subject": "Habitually dealing in stolen property.",
+        "IpcSection": "413",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "317(5)",
+        "Subject": "Assisting in concealment of stolen property.",
+        "IpcSection": "414",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "318(1)",
+        "Subject": "Cheating.",
+        "IpcSection": "415",
+        "change": "IpcSection defining cheating is presented in BNS as a sub-section."
+      },
+      {
+        "bnsSection": "318(2)",
+        "Subject": "Cheating punishment.",
+        "IpcSection": "417",
+        "change": "The IpcSection is included as a sub-section in the BNS sans heading. The upper limit of imprisonment is increased from one year to three years."
+      },
+      {
+        "bnsSection": "318(3)",
+        "Subject": "Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect.",
+        "IpcSection": "418",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. The upper limit of imprisonment is increased from three years to five years."
+      },
+      {
+        "bnsSection": "318(4)",
+        "Subject": "Cheating and dishonestly inducing delivery of property.",
+        "IpcSection": "420",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "319(1)",
+        "Subject": "Cheating by personation.",
+        "IpcSection": "416",
+        "change": "Formal change. This is a definition section which is presented as a sub-section in BNS without any change."
+      },
+      {
+        "bnsSection": "319(2)",
+        "Subject": "Cheating by personation punishment.",
+        "IpcSection": "419",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. Upper limit of imprisonment is increased from three years to five years."
+      },
+      {
+        "bnsSection": "320",
+        "Subject": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors.",
+        "IpcSection": "421",
+        "change": "Minimum mandatory punishment for imprisonment of six months has been introduced."
+      },
+      {
+        "bnsSection": "321",
+        "Subject": "Dishonestly or fraudulently preventing debt being available for creditors.",
+        "IpcSection": "422",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "322",
+        "Subject": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.",
+        "IpcSection": "423",
+        "change": "Upper limit of imprisonment is increased from two years to three years."
+      },
+      {
+        "bnsSection": "323",
+        "Subject": "Dishonest or fraudulent removal or concealment of property.",
+        "IpcSection": "424",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "324(1)",
+        "Subject": "Mischief.",
+        "IpcSection": "425",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "324(2)",
+        "Subject": "Mischief punishment.",
+        "IpcSection": "426",
+        "change": "The upper limit of imprisonment is increased from three months to six months."
+      },
+      {
+        "bnsSection": "324(3)",
+        "Subject": "Mischief - causes loss or damage to any property including the property of Government or Local Authority.",
+        "New": "This is a new addition."
+      },
+      {
+        "bnsSection": "324(4)",
+        "Subject": "Mischief causing damage to the amount of twenty thousand rupees and more but less than one lakh rupees.",
+        "IpcSection": "427",
+        "change": "Newly added."
+      },
+      {
+        "bnsSection": "324(5)",
+        "Subject": "Mischief- cause loss or damage to amount of one lakh rupees onwards.",
+        "New": "Value of damaged property amount threshold increased from fifty rupees to one lakh rupees. Punishment increased from two years to five years."
+      },
+      {
+        "bnsSection": "324(6)",
+        "Subject": "Mischief committed after preparation made for causing death or hurt.",
+        "IpcSection": "440",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "325",
+        "Subject": "Mischief by killing or maiming animal.",
+        "IpcSection": "428",
+        "change": "The upper limit of imprisonment is increased from two years to five years. Scope is expanded greatly by amending it to 'any animal'."
+      },
+      {
+        "bnsSection": "325",
+        "Subject": "Mischief by killing or maiming animal.",
+        "IpcSection": "429",
+        "change": "The upper limit of imprisonment is increased from two years to five years. Scope is expanded greatly by amending it to 'any animal'."
+      },
+      {
+        "bnsSection": "326(a)",
+        "Subject": "Mischief by injury, inundation, fire or explosive substance, etc.",
+        "IpcSection": "430",
+        "change": "IpcSection is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "326(b)",
+        "Subject": "Mischief by injury to public road, bridge, river or channel.",
+        "IpcSection": "431",
+        "change": "Words 'whoever commits mischief' is excluded. Section is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "326(c)",
+        "Subject": "Mischief by causing inundation or obstruction to public drainage attended with damage.",
+        "IpcSection": "432",
+        "change": "IpcSection is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "326(d)",
+        "Subject": "Mischief by injury, inundation, fire or explosive substance, etc.",
+        "IpcSection": "433",
+        "change": "Words 'light house or other light used as sea marks or any sea mark or buoy' are replaced by 'any sign or signal used for navigation of rail, aircraft, or ship,' thus the scope is widened immensely."
+      },
+      {
+        "bnsSection": "326(e)",
+        "Subject": "Mischief by destroying or moving, etc., a land-mark fixed by public authority.",
+        "IpcSection": "434",
+        "change": "IpcSection is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "326(f)",
+        "Subject": "Mischief by injury, inundation, fire or explosive substance, etc.",
+        "IpcSection": "435",
+        "change": "Words 'including agricultural produce' added."
+      },
+      {
+        "bnsSection": "326(g)",
+        "Subject": "Mischief by fire or explosive substance with intent to destroy house, etc.",
+        "IpcSection": "436",
+        "change": "IpcSection is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "327(1)",
+        "Subject": "Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden.",
+        "IpcSection": "437",
+        "change": "Formal changes, but essence is same-'rail, aircraft' are added in the heading."
+      },
+      {
+        "bnsSection": "327(2)",
+        "Subject": "Punishment for above offence.",
+        "IpcSection": "438",
+        "change": "IpcSection is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "328",
+        "Subject": "Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.",
+        "IpcSection": "439",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "329(1)",
+        "Subject": "Criminal trespass and house-trespass.",
+        "IpcSection": "441",
+        "change": "IpcSection is included as a sub-section."
+      },
+      {
+        "bnsSection": "329(2)",
+        "Subject": "Criminal trespass and house-trespass.",
+        "IpcSection": "442",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "329(3)",
+        "Subject": "Criminal trespass punishment.",
+        "IpcSection": "447",
+        "change": "The IpcSection is included as a sub-section in the BNS sans heading. The fine increased from five hundred rupees to five thousand rupees."
+      },
+      {
+        "bnsSection": "329(4)",
+        "Subject": "Punishment for house-trespass.",
+        "IpcSection": "448",
+        "change": "The IpcSection is included as a sub-section in the BNS sans heading. The upper limit of the fine has been increased from one thousand to five thousand rupees."
+      },
+      {
+        "bnsSection": "330(1)",
+        "Subject": "Lurking house trespass.",
+        "IpcSection": "443",
+        "change": "IpcSection is included as a sub-section."
+      },
+      {
+        "bnsSection": "330(2)",
+        "Subject": "House breaking.",
+        "IpcSection": "445",
+        "change": "The IpcSection is included as a sub-section in the BNS sans heading. Words 'any of such six ways' are replaced with 'in any of the following ways'."
+      },
+      {
+        "bnsSection": "331(1)",
+        "Subject": "Punishment for house-trespass or house-breaking.",
+        "IpcSection": "453",
+        "change": "IpcSection is included as a sub-section. 'Lurking' is dropped from heading."
+      },
+      {
+        "bnsSection": "331(2)",
+        "Subject": "Punishment for lurking house-trespass or house-breaking by night.",
+        "IpcSection": "456",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. 'by night' is replaced by 'after sunset and before sunrise'."
+      },
+      {
+        "bnsSection": "331(3)",
+        "Subject": "Lurking house-trespass or house-breaking in order to commit offence punishable with imprisonment.",
+        "IpcSection": "454",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "331(4)",
+        "Subject": "Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment.",
+        "IpcSection": "457",
+        "change": "The words 'by night' are replaced by 'after sunset and before sunrise'."
+      },
+      {
+        "bnsSection": "331(5)",
+        "Subject": "Lurking house-trespass or house-breaking after preparation for hurt, assault or wrongful restraint.",
+        "IpcSection": "455",
+        "change": "Section is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "331(6)",
+        "Subject": "Lurking house-trespass or house-breaking by night after preparation for hurt, assault, or wrongful restraint.",
+        "IpcSection": "458",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. 'by night' is replaced by 'after sunset and before sunrise'."
+      },
+      {
+        "bnsSection": "331(7)",
+        "Subject": "Grievous hurt caused whilst committing lurking house-trespass or house-breaking.",
+        "IpcSection": "459",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "331(8)",
+        "Subject": "All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them.",
+        "IpcSection": "460",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. 'by night' is replaced by 'after sunset and before sunrise'."
+      },
+      {
+        "bnsSection": "332(a)",
+        "Subject": "House-trespass in order to commit offence punishable with death.",
+        "IpcSection": "449",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "332(b)",
+        "Subject": "House-trespass in order to commit offence punishable with imprisonment for life.",
+        "IpcSection": "450",
+        "change": "IpcSection is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "332(c)",
+        "Subject": "House-trespass in order to commit offence punishable with imprisonment.",
+        "IpcSection": "451",
+        "change": "IpcSection is included as a sub-section sans heading."
+      },
+      {
+        "bnsSection": "333",
+        "Subject": "House-trespass after preparation for hurt, assault or wrongful restraint.",
+        "IpcSection": "452",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "334(1)",
+        "Subject": "Dishonestly breaking open receptacle containing property.",
+        "IpcSection": "461",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "334(2)",
+        "Subject": "Punishment for same offence when committed by person entrusted with custody.",
+        "IpcSection": "462",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "335",
+        "Subject": "Making a false document.",
+        "IpcSection": "464",
+        "change": "Heading changed and first, secondly, thirdly replaced with (A), (B), (C)."
+      },
+      {
+        "bnsSection": "336(1)",
+        "Subject": "Forgery.",
+        "IpcSection": "463",
+        "change": "Section is included as a sub-section in BNS. No other change."
+      },
+      {
+        "bnsSection": "336(2)",
+        "Subject": "Forgery punishment.",
+        "IpcSection": "465",
+        "change": "Section is included as a sub-section in BNS sans heading. No other Change."
+      },
+      {
+        "bnsSection": "336(3)",
+        "Subject": "Forgery for purpose of cheating.",
+        "IpcSection": "468",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "336(4)",
+        "Subject": "Forgery for purpose of harming reputation.",
+        "IpcSection": "469",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "337",
+        "Subject": "Forgery of record of Court or of public register, etc.",
+        "IpcSection": "466",
+        "change": "“Court or an identity document issued by the government, including a voter identity card or Aadhaar card,” is added, and “baptism” is excluded."
+      },
+      {
+        "bnsSection": "338",
+        "Subject": "Forgery of valuable security, will, etc.",
+        "IpcSection": "467",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "339",
+        "Subject": "Having possession of document described in Section 337 or Section 338, knowing it to be forged and intending to use it as genuine.",
+        "IpcSection": "474",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "340(1)",
+        "Subject": "Forged document or electronic record and using it as genuine.",
+        "IpcSection": "470",
+        "change": "IpcSection is included as a sub-section in BNS. 'using it as genuine' is added in the heading."
+      },
+      {
+        "bnsSection": "340(2)",
+        "Subject": "Using as genuine a forged document or electronic record.",
+        "IpcSection": "471",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "(1)",
+        "Subject": "Making or possessing counterfeit seal, etc., with intent to commit forgery, punishable under section 338.",
+        "IpcSection": "472",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "341(2)",
+        "Subject": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable otherwise.",
+        "IpcSection": "473",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "341(3)",
+        "Subject": "Possesses any seal, plate or other instrument knowing the same to be counterfeit.",
+        "New": "Whoever possesses any seal, plate or other instrument knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+        "change": "New sub-section."
+      },
+      {
+        "bnsSection": "341(4)",
+        "Subject": "Fraudulently or dishonestly uses as genuine any seal, plate or other instrument knowing or having reason to believe the same to be counterfeit.",
+        "New": "Whoever fraudulently or dishonestly uses as genuine any seal, plate or other instrument knowing or having reason to believe the same to be counterfeit, shall be punished in the same manner as if he had made or counterfeited such seal, plate or other instrument.",
+        "change": "New sub-section."
+      },
+      {
+        "bnsSection": "342(1)",
+        "Subject": "Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material.",
+        "IpcSection": "475",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "342(2)",
+        "Subject": "Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material.",
+        "IpcSection": "476",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "343",
+        "Subject": "Fraudulent cancellation, destruction, etc. of will, authority to adopt, or valuable security.",
+        "IpcSection": "477",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "344",
+        "Subject": "Falsification of accounts.",
+        "IpcSection": "477A",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "345(1)",
+        "Subject": "Property mark.",
+        "IpcSection": "479",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "345(2)",
+        "Subject": "Using a false property mark.",
+        "IpcSection": "481",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "345(3)",
+        "Subject": "Punishment for using a false property mark.",
+        "IpcSection": "482",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "346",
+        "Subject": "Tampering with property mark with intent to cause injury.",
+        "IpcSection": "489",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "347(1)",
+        "Subject": "Counterfeiting a property mark.",
+        "IpcSection": "483",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "347(2)",
+        "Subject": "Counterfeiting a mark used by a public servant.",
+        "IpcSection": "484",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "348",
+        "Subject": "Making or possession of any instrument for counterfeiting a property mark.",
+        "IpcSection": "485",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "349",
+        "Subject": "Selling goods marked with counterfeit property mark.",
+        "IpcSection": "486",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "350(1)",
+        "Subject": "Making a false mark upon any receptacle containing goods.",
+        "IpcSection": "487",
+        "change": "IpcSection is included as a sub-section in BNS."
+      },
+      {
+        "bnsSection": "350(2)",
+        "Subject": "Punishment for making use of any such false mark.",
+        "IpcSection": "488",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "351(1)",
+        "Subject": "Criminal intimidation.",
+        "IpcSection": "503",
+        "change": "IpcSection is included as a sub-section in BNS. “by any means” is added."
+      },
+      {
+        "bnsSection": "351 (2)/ (3)",
+        "Subject": "Criminal intimidation punishment.",
+        "IpcSection": "506",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "351(4)",
+        "Subject": "Criminal intimidation by an anonymous communication.",
+        "IpcSection": "507",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "352",
+        "Subject": "Intentional insult with intent to provoke breach of the peace.",
+        "IpcSection": "504",
+        "change": "Words “in any manner” are added."
+      },
+      {
+        "bnsSection": "353",
+        "Subject": "Statements conducing to public mischief.",
+        "IpcSection": "505",
+        "change": "\"false information” and “including through electronic means” are added."
+      },
+      {
+        "bnsSection": "354",
+        "Subject": "Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure.",
+        "IpcSection": "508",
+        "change": "No change."
+      },
+      {
+        "bnsSection": "355",
+        "Subject": "Misconduct in public by a drunken person.",
+        "IpcSection": "510",
+        "change": "Fine is increased from ten rupees to one thousand, or with community service is added."
+      },
+      {
+        "bnsSection": "356 (1)",
+        "Subject": "Defamation.",
+        "IpcSection": "499",
+        "change": "IpcSection is included as a sub section."
+      },
+      {
+        "bnsSection": "356 (2)",
+        "Subject": "Defamation punishment.",
+        "IpcSection": "500",
+        "change": "IpcSection is included as a sub-section in BNS sans heading. “or with community service” is added as an alternate punishment."
+      },
+      {
+        "bnsSection": "356 (3)",
+        "Subject": "Printing or engraving matter known to be defamatory.",
+        "IpcSection": "501",
+        "change": "IpcSection is included as a sub-section in BNS sans heading."
+      },
+      {
+        "bnsSection": "356 (4)",
+        "Subject": "Sale of printed or engraved substance containing defamatory matter.",
+        "IpcSection": "502",
+        "change": "Ditto."
+      },
+      {
+        "bnsSection": "357",
+        "Subject": "Breach of contract to attend on and supply wants of helpless person.",
+        "IpcSection": "491",
+        "change": "Fine increased from two hundred rupees to five thousand rupees."
+      },
+      {
+        "bnsSection": "358",
+        "Subject": "Repeal and Savings.",
+        "IpcSection": "Newly Added",
+        "change": "This section is a new addition. The Indian Penal Code, 1860, was enacted by the British Colonisers de novo; therefore, the Repeal and Savings Section was not required at all. Vide sub-section(1) and subsequent Government of India notifications, the IPC will be repealed on 1st July 2024. However, sub-sections (2) to (4) stipulate savings related to the repealed code."
+      }
+]
