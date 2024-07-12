@@ -6,7 +6,7 @@ import './app.scss'
 
 function App() {
 
-  const url = 'http://localhost:3000';
+  const url = 'https://lawcodes-server.onrender.com';
 
   const [ipc_law, setLaw] = useState('');
   const [ans, setans] = useState([]);
