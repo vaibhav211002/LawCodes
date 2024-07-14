@@ -18,8 +18,8 @@ function App() {
   
 
   const onchange = () => { 
-    const setchange = () => {
-      axios.post(`${url}/ipcSection`, {ipc_Section: ipc_law})
+    const setchange = async () => {
+      await axios.post(`${url}/ipcSection`, {ipc_Section: ipc_law})
       .then((response) => {
         console.log(response.data);
         setLaw('');
@@ -33,9 +33,9 @@ function App() {
   }
 
   const onchange_crpc = () => { 
-    const setchange = () => {
+    const setchange = async () => {
       console.log('heyy');
-      axios.post(`${url}/crpcSection`, {CrPC_section_new: crpc_law})
+      await axios.post(`${url}/crpcSection`, {CrPC_section_new: crpc_law})
       .then((response) => {
         console.log(response.data);
         setLaw_crpc('');
@@ -49,9 +49,9 @@ function App() {
   }
 
   const onchange_iea = () => { 
-    const setchange = () => {
+    const setchange = async () => {
       console.log('heyy2');
-      axios.post(`${url}/ieasearch`, {iea_section_new: iea_law})
+     await axios.post(`${url}/ieasearch`, {iea_section_new: iea_law})
       .then((response) => {
         console.log(response.data);
         setLaw_iea('');
