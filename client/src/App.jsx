@@ -6,8 +6,8 @@ import './app.scss'
 
 function App() {
 
-  const url = 'https://lawcodes-server.onrender.com';
-  // const url = 'http://localhost:3000';
+  // const url = 'https://lawcodes-server.onrender.com';
+  const url = 'http://localhost:3000';
 
   const [ipc_law, setLaw] = useState('');
   const [ans, setans] = useState([]);
@@ -34,6 +34,7 @@ function App() {
 
   const onchange_crpc = () => { 
     const setchange = () => {
+      console.log('heyy');
       axios.post(`${url}/crpcSection`, {CrPC_section_new: crpc_law})
       .then((response) => {
         console.log(response.data);
@@ -49,6 +50,7 @@ function App() {
 
   const onchange_iea = () => { 
     const setchange = () => {
+      console.log('heyy2');
       axios.post(`${url}/ieasearch`, {iea_section_new: iea_law})
       .then((response) => {
         console.log(response.data);
