@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 const response = require('./response');
+const response_bnss = require('./response2.json');
+const response_iea = require('./response3.json');
 require('dotenv').config();
 const bodyParser = require('body-parser');
 const cors = require('cors');
@@ -29,6 +31,42 @@ app.post('/ipcSection', async (req, res) => {
     }
     else{
         res.status(404).json({ error: 'IPC section not found' });
+    }
+})
+
+app.post('/crpcSection', async (req, res) => {
+    const { CrPC_section_new } = req.body;
+    console.log(" crpc  " , CrPC_section_new);
+    const result = [];
+    await response_bnss.find(item => {
+        if(item.CrPC_section === CrPC_section_new){
+            result.push(item);
+        }
+    });
+    console.log("api " ,result);
+    if (result) {
+        res.status(200).json(result);
+    }
+    else{
+        res.status(404).json({ error: 'CRPC section not found' });
+    }
+})
+
+app.post('/ieasearch', async (req, res) => {
+    const { iea_section_new } = req.body;
+    console.log(" iea  " , iea_section_new);
+    const result = [];
+    await response_iea.find(item => {
+        if(item.IEA_Section === iea_section_new){
+            result.push(item);
+        }
+    });
+    console.log("api " ,result);
+    if (result) {
+        res.status(200).json(result);
+    }
+    else{
+        res.status(404).json({ error: 'CRPC section not found' });
     }
 })
 
