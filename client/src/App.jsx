@@ -118,7 +118,7 @@ Follow these steps to easily find the updated section numbers in the new legal f
           <p>Find your  IPC to BNS </p>
           <input 
           type="text" 
-          placeholder="Enter IPC the law here"
+          placeholder="Enter the IPC law here"
           value={ipc_law}
           onChange={(e) => setLaw(e.target.value)}
           />
