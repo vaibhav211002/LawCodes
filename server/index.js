@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
 
 app.get('/getready',(req,res)=>{
     try {
-        res.sendStatus(200).json({message:"We are online."})
+        res.status(200).json({message:"We are online."})
     } catch (error) {
         if (!res.headersSent) {
             res.status(500).json({ error: 'An error occurred' });

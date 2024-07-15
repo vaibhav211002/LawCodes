@@ -41,7 +41,7 @@ function App() {
 
     effect();
 
-  }, [ready])
+  }, [url])
   
   const onchange = () => { 
     const setchange = async () => {
