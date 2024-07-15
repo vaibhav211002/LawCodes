@@ -195,7 +195,13 @@ Follow these steps to easily find the updated section numbers in the new legal f
           </div>
           </div>
           <footer>
-      <p className='footer'>Made By Vaibhav Bhatt ❤️</p>
+      <p className='footer'>
+        <strong>Contribution : </strong>
+        <br />
+        <strong>Ashutosh Singh</strong> - Legal Advisor  
+        <br />
+        <strong>Vaibhav Bhatt</strong> - Website Creator and Developer  
+      </p>
     </footer>
       </div>
       
