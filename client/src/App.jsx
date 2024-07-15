@@ -10,8 +10,8 @@ import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
 
-  // const url = 'https://lawcodes.onrender.com';
-  const url = 'http://localhost:3000';
+  const url = 'https://lawcodes.onrender.com';
+  // const url = 'http://localhost:3000';
 
   const [ipc_law, setLaw] = useState('');
   const [ans, setans] = useState([]);
