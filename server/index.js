@@ -17,8 +17,10 @@ app.get('/', (req, res) => {
 })
 
 app.get('/getready',(req,res)=>{
-    try {
-        res.status(200).json({message:"We are online."})
+    try {    
+        setTimeout(() => {
+        res.status(200).send('We are online');
+    }, 6000);
     } catch (error) {
         if (!res.headersSent) {
             res.status(500).json({ error: 'An error occurred' });
