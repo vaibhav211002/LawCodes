@@ -10,8 +10,8 @@ import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
 
-  const url = 'https://lawcodes.onrender.com';
-  // const url = 'http://localhost:3000';
+  // const url = 'https://lawcodes.onrender.com';
+  const url = 'http://localhost:3000';
 
   const [ipc_law, setLaw] = useState('');
   const [ans, setans] = useState([]);
@@ -29,7 +29,7 @@ function App() {
         setLaw('');
         setans(response.data);
         toast.success('Result Found!', {
-          position: "top-left",
+          position: "bottom-center",
           autoClose: 2000,
           hideProgressBar: true,
         });
@@ -50,7 +50,7 @@ function App() {
         setLaw_crpc('');
         setans1(response.data);
         toast.success('Result Found!', {
-          position: "top-left",
+          position: "bottom-center",
           autoClose: 2000,
           hideProgressBar: true,
         });
@@ -71,7 +71,7 @@ function App() {
         setLaw_iea('');
         setans2(response.data);
         toast.success('Result Found!', {
-          position: "top-left",
+          position: "bottom-center",
           autoClose: 2000,
           hideProgressBar: true,
         });
