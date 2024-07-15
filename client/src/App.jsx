@@ -118,7 +118,7 @@ Follow these steps to easily find the updated section numbers in the new legal f
           <p>Find your  IPC to BNS </p>
           <input 
           type="text" 
-          placeholder="Enter the IPC law here"
+          placeholder="Enter the IPC Section here"
           value={ipc_law}
           onChange={(e) => setLaw(e.target.value)}
           />
@@ -145,7 +145,7 @@ Follow these steps to easily find the updated section numbers in the new legal f
           <p>Find your CRPC to BNSS </p>
           <input 
           type="text" 
-          placeholder="Enter the CRPC law here"
+          placeholder="Enter the Cr PC Section here"
           value={crpc_law}
           onChange={(e) => setLaw_crpc(e.target.value)}
           />
@@ -172,7 +172,7 @@ Follow these steps to easily find the updated section numbers in the new legal f
           <p>Find your IEA to BSA </p>
           <input 
           type="text" 
-          placeholder="Enter the IEA law here"
+          placeholder="Enter the IEA Section here"
           value={iea_law}
           onChange={(e) => setLaw_iea(e.target.value)}
           />
