@@ -3,6 +3,10 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import axios from 'axios'
 import './app.scss'
+import image from './assets/image.png'
+import { GoLaw } from "react-icons/go";
+import {toast,ToastContainer} from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
 
@@ -24,6 +28,11 @@ function App() {
         console.log(response.data);
         setLaw('');
         setans(response.data);
+        toast.success('Result Found!', {
+          position: "top-left",
+          autoClose: 2000,
+          hideProgressBar: true,
+        });
       })
       .catch((error) => {
         console.error(error);
@@ -40,6 +49,11 @@ function App() {
         console.log(response.data);
         setLaw_crpc('');
         setans1(response.data);
+        toast.success('Result Found!', {
+          position: "top-left",
+          autoClose: 2000,
+          hideProgressBar: true,
+        });
       })
       .catch((error) => {
         console.error(error);
@@ -56,6 +70,11 @@ function App() {
         console.log(response.data);
         setLaw_iea('');
         setans2(response.data);
+        toast.success('Result Found!', {
+          position: "top-left",
+          autoClose: 2000,
+          hideProgressBar: true,
+        });
       })
       .catch((error) => {
         console.error(error);
@@ -66,24 +85,51 @@ function App() {
 
   return (
     <>
+    <ToastContainer/>
     <div className='main'>
       <div className="secondary-main">
+      <h2> <GoLaw className='image'/>Law-Code-Translator</h2>
+      <div className="textdept">
+        <p>Welcome to our legal conversion tool, your comprehensive guide for navigating India's newly reformed criminal laws.
+
+With the recent transition from the old criminal laws to newly passed criminal laws, many legal professionals and scholars face challenges in correlating old sections with their new counterparts.
+
+Our website simplifies this process by providing a seamless conversion system.</p>
+      <div className="steps">
+      <strong>Steps to Use Our Website : </strong>
+      <br />
+<br />
+1. <strong>Select the Law</strong>: Choose the specific law for conversion.
+<br />
+<br />
+2. <strong>Enter the Section Number</strong>: Type the section number of the old law which you want to convert with its new counterpart. For sections with letters, type them in capital letters without spaces <strong>(e.g., 171B)</strong>.
+<br />
+<br />
+3. <strong>Click Convert</strong>: Press the convert button to see the result.
+<br />
+<br />
+4. <strong>View Results</strong>: The new section number in the updated law will be displayed.
+<br />
+<br />
+Follow these steps to easily find the updated section numbers in the new legal frameworks.
+      </div>
+      </div>
         <div className="box">
-          <h2>Law Converter</h2>
-          <p>Convert the law into a more readable format</p>
+          <p>Find your  IPC to BNS </p>
           <input 
           type="text" 
-          placeholder="Enter the law here"
+          placeholder="Enter IPC the law here"
           value={ipc_law}
           onChange={(e) => setLaw(e.target.value)}
           />
           <button onClick={onchange}>Convert</button>
         </div>
         <div className="ans">
-          <h2>Result </h2>
+          
           <div className='result-box'> 
           { (ans.length>0 )? ans.map(entry => (
             <div className="card">
+              <h2>Result </h2>
               <div key={entry.bnsSection} className="result-entry">
               <p className='bns'><strong>BNS Section:</strong> {entry.bnsSection}</p>
               <p className='sub'><strong>Subject:</strong> {entry.Subject}</p>
@@ -99,17 +145,17 @@ function App() {
           <p>Find your CRPC to BNSS </p>
           <input 
           type="text" 
-          placeholder="Enter the law here"
+          placeholder="Enter the CRPC law here"
           value={crpc_law}
           onChange={(e) => setLaw_crpc(e.target.value)}
           />
           <button onClick={onchange_crpc}>Convert</button>
         </div>
         <div className="ans">
-          <h2>Result </h2>
           <div className='result-box'> 
           { (ans1.length>0 )? ans1.map(entry => (
             <div className="card">
+              <h2>Result </h2>
               <div key={entry.IpcSection} className="result-entry">
               <p className='bns'><strong>BNSS Section:</strong> {entry.BNSS_section}</p>
               <p className='sub'><strong>Subject:</strong> {entry.subject}</p>
@@ -121,40 +167,42 @@ function App() {
   )) : <p>Enter Correct CRPC</p>}
           </div>
           </div>
+          
           <div className="box">
           <p>Find your IEA to BSA </p>
           <input 
           type="text" 
-          placeholder="Enter the law here"
+          placeholder="Enter the IEA law here"
           value={iea_law}
           onChange={(e) => setLaw_iea(e.target.value)}
           />
           <button onClick={onchange_iea}>Convert</button>
         </div>
         <div className="ans">
-          <h2>Result </h2>
           <div className='result-box'> 
           { (ans2.length>0 )? ans2.map(entry => (
             <div className="card">
+              <h2>Result </h2>
               <div key={entry.BSA_Section} className="result-entry">
               <p className='bns'><strong>BSA Section:</strong> {entry.BSA_Section}</p>
-              <p className='sub'><strong>Subject:</strong> {entry.subject}</p>
+              <p className='sub'><strong>Subject:</strong> {entry.Subject}</p>
               <p className='ipc'><strong>IEA Section:</strong> {entry.IEA_Section}</p>
-              <p className='chnge'><strong>Comparison:</strong> {entry.comparison}</p>
+              <p className='chnge'><strong>Comparison:</strong> {entry.Comparison}</p>
           </div>
             </div>
             
   )) : <p>Enter Correct IEA</p>}
           </div>
           </div>
-
+          <footer>
+      <p className='footer'>Made By Vaibhav Bhatt ❤️</p>
+    </footer>
       </div>
       
-      {/* <footer>
-      <p className='footer'>Made By Vaibhav Bhatt</p>
-    </footer> */}
+
 
     </div>
+
 
     </>
   )
