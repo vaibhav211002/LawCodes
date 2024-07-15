@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import axios from 'axios'
@@ -19,18 +19,39 @@ function App() {
   const [ans1, setans1] = useState([]);
   const [iea_law, setLaw_iea] = useState('');
   const [ans2, setans2] = useState([]);
-  
+  const [ready,setready]=useState(false);
+  useEffect( () => {
 
+    const effect = async ()=>{
+      try {
+        await axios.get(`${url}/getready`)
+        .then(()=>{
+          setready(true);
+          toast.success('We are Online', {
+            position: "top-right",
+            autoClose: 500,
+            hideProgressBar: true,
+          });
+        })
+      } catch (error) {
+        console.error(error);
+      }
+      
+    }
+
+    effect();
+
+  }, [ready])
+  
   const onchange = () => { 
     const setchange = async () => {
       await axios.post(`${url}/ipcSection`, {ipc_Section: ipc_law})
       .then((response) => {
-        console.log(response.data);
         setLaw('');
         setans(response.data);
         toast.success('Result Found!', {
           position: "bottom-center",
-          autoClose: 2000,
+          autoClose: 1000,
           hideProgressBar: true,
         });
       })
@@ -43,10 +64,8 @@ function App() {
 
   const onchange_crpc = () => { 
     const setchange = async () => {
-      console.log('heyy');
       await axios.post(`${url}/crpcSection`, {CrPC_section_new: crpc_law})
       .then((response) => {
-        console.log(response.data);
         setLaw_crpc('');
         setans1(response.data);
         toast.success('Result Found!', {
@@ -64,10 +83,8 @@ function App() {
 
   const onchange_iea = () => { 
     const setchange = async () => {
-      console.log('heyy2');
      await axios.post(`${url}/ieasearch`, {iea_section_new: iea_law})
       .then((response) => {
-        console.log(response.data);
         setLaw_iea('');
         setans2(response.data);
         toast.success('Result Found!', {
@@ -90,7 +107,7 @@ function App() {
       <div className="secondary-main">
       <h2> <GoLaw className='image'/>Law-Code-Translator</h2>
       <div className="textdept">
-        <p>Welcome to our legal conversion tool, your comprehensive guide for navigating India's newly reformed criminal laws.
+        <p> <strong>Welcome</strong> to our legal conversion tool, your comprehensive guide for navigating India's newly reformed criminal laws.
 
 With the recent transition from the old criminal laws to newly passed criminal laws, many legal professionals and scholars face challenges in correlating old sections with their new counterparts.
 
@@ -112,6 +129,8 @@ Our website simplifies this process by providing a seamless conversion system.</
 <br />
 <br />
 Follow these steps to easily find the updated section numbers in the new legal frameworks.
+<br />
+<strong>Wait For the Notification to get the service started.</strong>
       </div>
       </div>
         <div className="box">
