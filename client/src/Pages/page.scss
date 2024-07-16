@@ -5,6 +5,7 @@
     justify-content: center;
     flex-direction: column;
     
+    
 >.box{
             
     width: 40%;
@@ -81,4 +82,15 @@
     }
 }
 
+}
+
+@media screen and (max-width: 450px){
+    
+.Main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 40%;    
+}
 }
