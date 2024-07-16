@@ -3,10 +3,16 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import axios from 'axios'
 import './app.scss'
-import image from './assets/image.png'
 import { GoLaw } from "react-icons/go";
 import {toast,ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import IPC from './Pages/IPC'
+import CRPC from './Pages/CRPC'
+import IEA from './Pages/IEA'
+import {Routes,Route,BrowserRouter as Router,Link} from "react-router-dom";
+import Linker from './components/Linker'
+
+
 
 function App() {
 
@@ -38,67 +44,10 @@ function App() {
       }
       
     }
-
     effect();
-
   }, [url])
-  
-  const onchange = () => { 
-    const setchange = async () => {
-      await axios.post(`${url}/ipcSection`, {ipc_Section: ipc_law})
-      .then((response) => {
-        setLaw('');
-        setans(response.data);
-        toast.success('Result Found!', {
-          position: "bottom-center",
-          autoClose: 1000,
-          hideProgressBar: true,
-        });
-      })
-      .catch((error) => {
-        console.error(error);
-      });
-    }
-    setchange();
-  }
 
-  const onchange_crpc = () => { 
-    const setchange = async () => {
-      await axios.post(`${url}/crpcSection`, {CrPC_section_new: crpc_law})
-      .then((response) => {
-        setLaw_crpc('');
-        setans1(response.data);
-        toast.success('Result Found!', {
-          position: "bottom-center",
-          autoClose: 2000,
-          hideProgressBar: true,
-        });
-      })
-      .catch((error) => {
-        console.error(error);
-      });
-    }
-    setchange();
-  }
 
-  const onchange_iea = () => { 
-    const setchange = async () => {
-     await axios.post(`${url}/ieasearch`, {iea_section_new: iea_law})
-      .then((response) => {
-        setLaw_iea('');
-        setans2(response.data);
-        toast.success('Result Found!', {
-          position: "bottom-center",
-          autoClose: 2000,
-          hideProgressBar: true,
-        });
-      })
-      .catch((error) => {
-        console.error(error);
-      });
-    }
-    setchange();
-  }
 
   return (
     <>
@@ -133,95 +82,29 @@ Follow these steps to easily find the updated section numbers in the new legal f
 <strong>Wait For the Notification to get the service started.</strong>
       </div>
       </div>
-        <div className="box">
-          <p>Find your  IPC to BNS </p>
-          <input 
-          type="text" 
-          placeholder="Enter the IPC Section here"
-          value={ipc_law}
-          onChange={(e) => setLaw(e.target.value)}
-          />
-          <button onClick={onchange}>Convert</button>
+      <div className="heads">
+        <div className="pointer">
         </div>
-        <div className="ans">
-          
-          <div className='result-box'> 
-          { (ans.length>0 )? ans.map(entry => (
-            <div className="card">
-              <h2>Result </h2>
-              <div key={entry.bnsSection} className="result-entry">
-              <p className='bns'><strong>BNS Section:</strong> {entry.bnsSection}</p>
-              <p className='sub'><strong>Subject:</strong> {entry.Subject}</p>
-              <p className='ipc'><strong>IPC Section:</strong> {entry.IpcSection}</p>
-              <p className='chnge'><strong>Change:</strong> {entry.change}</p>
-          </div>
-            </div>
-            
-  )) : <p>Enter Correct IPC</p>}
-          </div>  
+      </div>
+      {/* <Linker/> */}
+      {/* <Router>
+      
+        <Routes>
+          <Route path="/ipc" element={<IPC/>} />
+          <Route path="/crpc" element={<CRPC/>} />
+          <Route path="/iea" element={<IEA/>} />
+        </Routes>
+      </Router> */}
+      <div>
+        <div className="heading">
+        <Link to='/ipc' className="edit-profile">IPC </Link>
+        <Link to='/crpc' className="edit-profile">CRPC </Link>
+        <Link to='/iea' className="edit-profile">IEA </Link>
         </div>
-        <div className="box">
-          <p>Find your CRPC to BNSS </p>
-          <input 
-          type="text" 
-          placeholder="Enter the Cr PC Section here"
-          value={crpc_law}
-          onChange={(e) => setLaw_crpc(e.target.value)}
-          />
-          <button onClick={onchange_crpc}>Convert</button>
-        </div>
-        <div className="ans">
-          <div className='result-box'> 
-          { (ans1.length>0 )? ans1.map(entry => (
-            <div className="card">
-              <h2>Result </h2>
-              <div key={entry.IpcSection} className="result-entry">
-              <p className='bns'><strong>BNSS Section:</strong> {entry.BNSS_section}</p>
-              <p className='sub'><strong>Subject:</strong> {entry.subject}</p>
-              <p className='ipc'><strong>CRPC Section:</strong> {entry.CrPC_section}</p>
-              <p className='chnge'><strong>Comparison:</strong> {entry.comparison}</p>
-          </div>
-            </div>
-            
-  )) : <p>Enter Correct CRPC</p>}
-          </div>
-          </div>
-          
-          <div className="box">
-          <p>Find your IEA to BSA </p>
-          <input 
-          type="text" 
-          placeholder="Enter the IEA Section here"
-          value={iea_law}
-          onChange={(e) => setLaw_iea(e.target.value)}
-          />
-          <button onClick={onchange_iea}>Convert</button>
-        </div>
-        <div className="ans">
-          <div className='result-box'> 
-          { (ans2.length>0 )? ans2.map(entry => (
-            <div className="card">
-              <h2>Result </h2>
-              <div key={entry.BSA_Section} className="result-entry">
-              <p className='bns'><strong>BSA Section:</strong> {entry.BSA_Section}</p>
-              <p className='sub'><strong>Subject:</strong> {entry.Subject}</p>
-              <p className='ipc'><strong>IEA Section:</strong> {entry.IEA_Section}</p>
-              <p className='chnge'><strong>Comparison:</strong> {entry.Comparison}</p>
-          </div>
-            </div>
-            
-  )) : <p>Enter Correct IEA</p>}
-          </div>
-          </div>
-          <footer>
-      <p className='footer'>
-        <strong>Contribution : </strong>
-        <br />
-        <strong>Ashutosh Singh</strong> - Legal Advisor  
-        <br />
-        <strong>Vaibhav Bhatt</strong> - Website Creator and Developer  
-      </p>
-    </footer>
+    </div>
+      
+        
+      
       </div>
       
 
