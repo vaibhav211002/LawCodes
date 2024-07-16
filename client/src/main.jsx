@@ -16,7 +16,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/ipc" element={<IPC/>} />
           <Route path="/crpc" element={<CRPC/>} />
           <Route path="/iea" element={<IEA/>} />
+          <Route path="/*"  />
         </Routes>
+        
       </Router>
     <Footer/>
   </React.StrictMode>,

@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import axios from 'axios'
+import  React from 'react';
 import './app.scss'
 import { GoLaw } from "react-icons/go";
 import {toast,ToastContainer} from 'react-toastify';
@@ -10,8 +11,8 @@ import IPC from './Pages/IPC'
 import CRPC from './Pages/CRPC'
 import IEA from './Pages/IEA'
 import {Routes,Route,BrowserRouter as Router,Link} from "react-router-dom";
-import Linker from './components/Linker'
-
+import CircularProgress from '@mui/material/CircularProgress';
+import Box from '@mui/material/Box';
 
 
 function App() {
@@ -82,10 +83,6 @@ Follow these steps to easily find the updated section numbers in the new legal f
 <strong>Wait For the Notification to get the service started.</strong>
       </div>
       </div>
-      <div className="heads">
-        <div className="pointer">
-        </div>
-      </div>
       {/* <Linker/> */}
       {/* <Router>
       
@@ -95,20 +92,26 @@ Follow these steps to easily find the updated section numbers in the new legal f
           <Route path="/iea" element={<IEA/>} />
         </Routes>
       </Router> */}
-      <div>
-        <div className="heading">
-        <Link to='/ipc' className="edit-profile">IPC </Link>
-        <Link to='/crpc' className="edit-profile">CRPC </Link>
-        <Link to='/iea' className="edit-profile">IEA </Link>
-        </div>
-    </div>
+      {/* <Linker/> */}
+
+
+      {(!ready)?        <Box sx={{ display: 'flex' }}>
+      <CircularProgress />
+    </Box> :<div className="heading">
+          <div className="ipc">
+            <Link to='/ipc' className="edit-profile">Indian Penal Code, 1860 to Bharatiya Nyaya Sanhita, 2023</Link>
+          </div>
+          <div className="crpc">
+            <Link to='/crpc' className="edit-profile">Code of Criminal Procedure, 1973 to Bharatiya Nagarik Suraksha Sanhita, 2023 </Link>
+          </div>
+          <div className="iea">
+            <Link to='/iea' className="edit-profile">Indian Evidence Act, 1872 to Bharatiya Sakshya Adhiniyam, 2023 </Link>
+          </div>
+        </div> }
       
-        
-      
+
+
       </div>
-      
-
-
     </div>
 
 
