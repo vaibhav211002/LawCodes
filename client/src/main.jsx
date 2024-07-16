@@ -20,6 +20,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         </Routes>
         
       </Router>
-    <Footer/>
+      <Footer/>
   </React.StrictMode>,
 )

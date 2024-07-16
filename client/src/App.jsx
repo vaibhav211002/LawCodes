@@ -13,6 +13,7 @@ import IEA from './Pages/IEA'
 import {Routes,Route,BrowserRouter as Router,Link} from "react-router-dom";
 import CircularProgress from '@mui/material/CircularProgress';
 import Box from '@mui/material/Box';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -112,9 +113,9 @@ Follow these steps to easily find the updated section numbers in the new legal f
 
 
       </div>
+     
     </div>
-
-
+    
     </>
   )
 }
