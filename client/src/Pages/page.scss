@@ -4,10 +4,11 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin-top: 50px;
     
     
 >.box{
-            
+    margin-top: 30;        
     width: 40%;
     border: 2px solid (14, 18, 8);
     text-align: center;
@@ -84,13 +85,13 @@
 
 }
 
-@media screen and (max-width: 450px){
+@media screen and (max-width: 500px){
     
 .Main{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 40%;    
+    margin-top: 30%;    
 }
 }

@@ -3,11 +3,12 @@ import axios from 'axios';
 import {toast,ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './page.scss'
+import Footer from '../components/Footer';
 
 
 function CRPC() {
     const url = 'https://lawcodes.onrender.com';
-
+    // const url = 'http://localhost:3000';
     const [crpc_law, setLaw_crpc] = useState('');
     const [ans1, setans1] = useState([]);
     const [ready,setready]=useState(false);
@@ -46,6 +47,11 @@ function CRPC() {
         });
       })
       .catch((error) => {
+        toast.error('Enter Correct CRPC!', {
+          position: "bottom-center",
+          autoClose: 1000,
+          hideProgressBar: true,
+        });
         console.error(error);
       });
     }
@@ -84,6 +90,7 @@ function CRPC() {
           </div>
           </div>
     </div>
+    <Footer/>
     </>
   )
 }

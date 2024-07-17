@@ -3,6 +3,7 @@ body{
     background-color:#e8dbfc;
     
 }
+
 .main{
     display: flex;
     justify-content: center;
@@ -41,23 +42,19 @@ body{
             margin-bottom: 50px;
             gap: 10px;
             >.ipc{
-                font-size: 15px;
+                font-size: 1.5rem;
                 text-decoration: none;
             }
             >.crpc{
-                font-size: 15px;
+                font-size: 1.5rem;
                 text-decoration: none;
             }
             >.iea{
-                font-size: 15px;
+                font-size: 1.5rem;
                 text-decoration: none;
             }
         }
     
-    }
-    .footer{
-        
-        text-align: center;
     }
     .footer{
         border: 2px solid black;
@@ -70,7 +67,7 @@ body{
     border: 2px soild green;
 }
 
-@media screen and (max-width: 450px){
+@media screen and (max-width: 500px){
 
 
 
@@ -105,15 +102,15 @@ body{
             margin-bottom: 30px;
         }
         >.heading{
-            width: 150%;
             height: 300px;
             width: 70%;
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
             justify-content: space-around;
+            margin-bottom: 30px;
             >.ipc{
+                text-decoration: none;
                 font-size: 20px;
             }
             >.crpc{

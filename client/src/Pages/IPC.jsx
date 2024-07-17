@@ -3,10 +3,12 @@ import axios from 'axios';
 import {toast,ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './page.scss'
+import Footer from '../components/Footer';
 
 function IPC() {
 
     const url = 'https://lawcodes.onrender.com';
+    // const url = 'http://localhost:3000';
     const [ipc_law, setLaw] = useState('');
     const [ans, setans] = useState([]);
     const [ready,setready]=useState(false);
@@ -39,6 +41,7 @@ function IPC() {
           .then((response) => {
             setLaw('');
             setans(response.data);
+            console.log(response.data);
             toast.success('Result Found!', {
               position: "bottom-center",
               autoClose: 1000,
@@ -46,6 +49,11 @@ function IPC() {
             });
           })
           .catch((error) => {
+            toast.error('Enter Correct IPC!', {
+              position: "bottom-center",
+              autoClose: 1000,
+              hideProgressBar: true,
+            });
             console.error(error);
           });
         }
@@ -80,9 +88,10 @@ function IPC() {
           </div>
             </div>
             
-  )) : <p>Enter Correct IPC</p>}
+  )) : <p>Please Enter Correct Ipc</p>}
           </div>  
         </div>
+        <Footer/>
     </div>
     </>
     

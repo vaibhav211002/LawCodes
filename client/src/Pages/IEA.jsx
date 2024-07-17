@@ -3,10 +3,12 @@ import axios from 'axios';
 import {toast,ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './page.scss'
+import Footer from '../components/Footer';
 
 
 function IEA() {
     const url = 'https://lawcodes.onrender.com';
+    // const url = 'http://localhost:3000';
     const [iea_law, setLaw_iea] = useState('');
     const [ans2, setans2] = useState([]);
 
@@ -23,6 +25,11 @@ function IEA() {
             });
           })
           .catch((error) => {
+            toast.error('Enter Correct IEA!', {
+              position: "bottom-center",
+              autoClose: 1000,
+              hideProgressBar: true,
+            });
             console.error(error);
           });
         }
@@ -58,6 +65,7 @@ function IEA() {
   )) : <p>Enter Correct IEA</p>}
           </div>
           </div>
+          <Footer/>
     </div>
     </>
     

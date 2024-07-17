@@ -53,6 +53,7 @@ function App() {
 
   return (
     <>
+    <div className="main-1">
     <ToastContainer/>
     <div className='main'>
       <div className="secondary-main">
@@ -84,18 +85,6 @@ Follow these steps to easily find the updated section numbers in the new legal f
 <strong>Wait For the Notification to get the service started.</strong>
       </div>
       </div>
-      {/* <Linker/> */}
-      {/* <Router>
-      
-        <Routes>
-          <Route path="/ipc" element={<IPC/>} />
-          <Route path="/crpc" element={<CRPC/>} />
-          <Route path="/iea" element={<IEA/>} />
-        </Routes>
-      </Router> */}
-      {/* <Linker/> */}
-
-
       {(!ready)?        <Box sx={{ display: 'flex' }}>
       <CircularProgress />
     </Box> :<div className="heading">
@@ -108,14 +97,16 @@ Follow these steps to easily find the updated section numbers in the new legal f
           <div className="iea">
             <Link to='/iea' className="edit-profile">Indian Evidence Act, 1872 to Bharatiya Sakshya Adhiniyam, 2023 </Link>
           </div>
-        </div> }
-      
-
-
+        </div> 
+        }
+        
       </div>
-     
+
+      
     </div>
     
+    </div>
+
     </>
   )
 }

@@ -10,7 +10,9 @@ function Footer() {
         <br />
         <strong>Ashutosh Singh</strong> - Legal Advisor  
         <br />
-        <strong>Vaibhav Bhatt</strong> - Website Creator and Developer  
+        <strong>Vaibhav Bhatt</strong> - Developer  
+        <br />
+        <p>This Website is in the development phase , even your smallest Contribution can help us to improve the performance.</p>
       </p>
     </footer>
     </div>
