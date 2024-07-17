@@ -1,9 +1,9 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body{
     background-color:#e8dbfc;
     
 }
+
 .main{
     display: flex;
     justify-content: center;
@@ -16,13 +16,13 @@ body{
         align-items: center;
         flex-direction: column;
         height: 100vh;
-        >h2{
+        >h2{font-size: 40px;
             >.image{
                 gap: 2px;
                 margin-right: 12px;
                 margin-top: 5px;
             }
-            font-size: 40px;
+            
         }
         >.textdept{
             font-size: medium;
@@ -30,80 +30,34 @@ body{
             width: 90%;
             margin-bottom: 30px;
         }
-        >.box{
-            width: 40%;
-            border: 2px solid (14, 18, 8);
-            text-align: center;
-            // display: flex;
-            // justify-content: center;
-            >h2{
-                font-size: 40px;
-                margin: 0;
+        >.heading{
+            width: 150%;
+            height: 100px;
+            width: 70%;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            color: black;
+            text-decoration: none;
+            margin-bottom: 50px;
+            gap: 10px;
+            >.ipc{
+                font-size: 1.5rem;
+                text-decoration: none;
             }
-            >p{
-                font-size: 20px;
-                margin: 0;
-                font-weight: 900;
-                padding-bottom: 10px;
+            >.crpc{
+                font-size: 1.5rem;
+                text-decoration: none;
             }
-            >input{
-                width: 100%;
-                height: 30px;
-                text-align: center;
-                font-weight: 600;
+            >.iea{
+                font-size: 1.5rem;
+                text-decoration: none;
             }
-            >button{
-                margin-top: 10px;
-                border-radius: 2px;
-                color: rgb(0, 0, 0);
-                height: 40px;
-                width: 70px;
-                background-color: rgb(181, 233, 177);
-            }
-        }
-        >.ans{
-            padding: 20px;
-            /* text-align: center; */
-            >h2{
-                font-size: 40px;
-                margin: 0;
-                text-align: center;
-            }
-            >.result-box{
-                width: 100%;
-                flex-direction: column;
-                display: flex;
-                padding-right: 5px;
-                >.card{
-                    background-color:#f6f8f6;
-                    width: 100%;
-                    display: flex;
-                    justify-content: space-between;
-                    align-items: center;
-                    flex-direction: column;
-                    padding: 10px;
-                    border: 0.5px solid black;
-                    margin: 10px 0;
-                    margin-right: 10px;
-                    >.result-entry{
-                        >.bns{
-                            font-size: 20px;
-                            font-weight: 800;
-                            margin: 0;
-                            text-align: center;
-                            color: rgb(6, 28, 31);
-                        }
-
-                    }
-
-                }
-            }
-
         }
     
     }
     .footer{
-        
+        border: 2px solid black;
         text-align: center;
     }
 
@@ -113,7 +67,7 @@ body{
     border: 2px soild green;
 }
 
-@media screen and (max-width: 450px){
+@media screen and (max-width: 500px){
 
 
 
@@ -131,12 +85,13 @@ body{
         flex-direction: column;
         height: 100vh;
         >h2{
+            font-size: 30px;
             >.image{
                 gap: 2px;
                 margin-right: 12px;
                 margin-top: 5px;
             }
-            font-size: 30px;
+            
         }
         >.textdept{
             
@@ -146,89 +101,30 @@ body{
             padding: 10px;
             margin-bottom: 30px;
         }
-        >.box{
-            
-            width: 40%;
-            border: 2px solid (14, 18, 8);
-            text-align: center;
+        >.heading{
+            height: 300px;
+            padding-bottom: 20px;
+            width: 70%;
             display: flex;
-            justify-content: center;
             flex-direction: column;
             align-items: center;
-
-            >h2{
-                font-size: 40px;
-                margin: 0;
-                
-            }
-            >p{
+            justify-content: space-around;
+            margin-bottom: 30px;
+            >.ipc{
+                text-decoration: none;
                 font-size: 20px;
-                margin: 0;
-                font-weight: 900;
-                width:max-content;
-                padding-bottom: 10px;
             }
-            >input{
-                width: 120%;
-                height: 30px;
-                text-align: center;
-                font-weight: 600;
+            >.crpc{
+                font-size: 20px;
             }
-            >button{
-                margin-top: 10px;
-                border-radius: 2px;
-                color: rgb(0, 0, 0);
-                height: 40px;
-                width: 70px;
-                background-color: rgb(181, 233, 177);
+            >.iea{
+                font-size: 20px;
             }
         }
-        >.ans{
-            padding: 20px;
-            /* text-align: center; */
-            >h2{
-                font-size: 40px;
-                margin: 0;
-                text-align: center;
-            }
-            >.result-box{
-                width: 100%;
-                flex-direction: column;
-                display: flex;
-                padding-right: 5px;
-                >.card{
-                    background-color:#ECFFE6;
-                    width: 100%;
-                    display: flex;
-                    justify-content: space-between;
-                    align-items: center;
-                    flex-direction: column;
-                    padding: 9px;
-                    border: 1px solid black;
-                    margin: 10px 0;
-                    margin-right: 10px;
-                    >.result-entry{
-                        >.bns{
-                            font-size: 20px;
-                            font-weight: 800;
-                            margin: 0;
-                            text-align: center;
-                            color: rgb(6, 28, 31);
-                        }
-
-                    }
-
-                }
-            }
-
         }
+
     
-    }
-    .footer{
-        
-        text-align: center;
     }
 
-}
-    
+
 }

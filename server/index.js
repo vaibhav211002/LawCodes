@@ -38,12 +38,12 @@ app.post('/ipcSection', async (req, res) => {
             result.push(item);
         }
     });
+    console.log();
     console.log("api " ,result);
-    if (result) {
-        res.status(200).json(result);
-    }
-    else{
+    if(result.length==0){
         res.status(404).json({ error: 'IPC section not found' });
+    }else{
+        res.status(200).json(result);
     }
 })
 
@@ -57,11 +57,10 @@ app.post('/crpcSection', async (req, res) => {
         }
     });
     console.log("api " ,result);
-    if (result) {
+    if(result.length==0){
+        res.status(404).json({ error: 'IPC section not found' });
+    }else{
         res.status(200).json(result);
-    }
-    else{
-        res.status(404).json({ error: 'CRPC section not found' });
     }
 })
 
@@ -75,11 +74,10 @@ app.post('/ieasearch', async (req, res) => {
         }
     });
     console.log("api " ,result);
-    if (result) {
+    if(result.length==0){
+        res.status(404).json({ error: 'IPC section not found' });
+    }else{
         res.status(200).json(result);
-    }
-    else{
-        res.status(404).json({ error: 'CRPC section not found' });
     }
 })
 
