@@ -6,6 +6,7 @@ import CRPC from './Pages/CRPC'
 import IEA from './Pages/IEA'
 import {Routes,Route,BrowserRouter as Router,Link} from "react-router-dom";
 import Footer from './components/Footer.jsx'
+import { Navigate } from 'react-router-dom'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -16,6 +17,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/ipc" element={<IPC/>} />
           <Route path="/crpc" element={<CRPC/>} />
           <Route path="/iea" element={<IEA/>} />
+          <Route path="*" element={<Navigate to="/" replace />} /> {/* Redirect unknown routes to /ipc */}
         </Routes>
       </Router>
       
