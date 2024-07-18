@@ -57,7 +57,7 @@ function App() {
     <ToastContainer/>
     <div className='main'>
       <div className="secondary-main">
-      <h2> <GoLaw className='image'/>Law-Code-Translator</h2>
+      <h2> <GoLaw className='image'/>Criminal Law Section Conversion</h2>
       <div className="textdept">
         <p> <strong>Welcome</strong> to our legal conversion tool, your comprehensive guide for navigating India's newly reformed criminal laws.
 

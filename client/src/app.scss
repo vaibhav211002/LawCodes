@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body{
-    background-color:#e8dbfc;
+    background-color:#000000;
+    color: #e5e4e6;
     
 }
 
@@ -85,7 +86,7 @@ body{
         flex-direction: column;
         height: 100vh;
         >h2{
-            font-size: 30px;
+            font-size: 20px;
             >.image{
                 gap: 2px;
                 margin-right: 12px;

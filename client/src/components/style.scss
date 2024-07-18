@@ -3,4 +3,20 @@
     >a{
         text-align: center;
     }
+    >.lines{
+        border: 2px solid red;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 500px){
+    .footer{
+        text-align: center;
+        >a{
+            text-align: center;
+        }
+    }
+
 }
