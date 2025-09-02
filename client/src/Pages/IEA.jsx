@@ -65,7 +65,6 @@ function IEA() {
   )) : <p>Enter Correct IEA</p>}
           </div>
           </div>
-          <Footer/>
     </div>
     </>
     
