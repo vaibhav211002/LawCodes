@@ -91,7 +91,6 @@ function IPC() {
   )) : <p>Please Enter Correct Ipc</p>}
           </div>  
         </div>
-        <Footer/>
     </div>
     </>
     
