@@ -90,8 +90,7 @@ function CRPC() {
           </div>
           </div>
     </div>
-    <Footer/>
-    </>
+</>
   )
 }
 
