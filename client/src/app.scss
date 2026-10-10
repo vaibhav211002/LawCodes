@@ -85,6 +85,47 @@ a {
   color: var(--green);
 }
 
+.india-flag {
+  position: relative;
+  display: inline-flex;
+  width: 25px;
+  height: 17px;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2px;
+  overflow: hidden;
+  border: 1px solid rgb(23 37 31 / 12%);
+  border-radius: 2px;
+  background: linear-gradient(
+    to bottom,
+    #ff9933 0 33.33%,
+    #fff 33.33% 66.66%,
+    #138808 66.66% 100%
+  );
+}
+
+.flag-chakra {
+  width: 7px;
+  height: 7px;
+  border: 1px solid #000080;
+  border-radius: 50%;
+  background: repeating-conic-gradient(
+    #000080 0deg 4deg,
+    transparent 4deg 15deg
+  );
+}
+
+.flag-chakra::after {
+  display: block;
+  width: 1px;
+  height: 1px;
+  margin: 2px;
+  border-radius: 50%;
+  background: #000080;
+  content: '';
+}
+
 .main-nav {
   display: flex;
   align-items: center;

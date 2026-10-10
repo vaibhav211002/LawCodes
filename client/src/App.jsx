@@ -125,6 +125,9 @@ function App() {
         <Link className="brand" to="/" aria-label="LawCodes home">
           <span className="brand-icon"><GoLaw /></span>
           <span>Law<span className="brand-accent">Codes</span></span>
+          <span className="india-flag" role="img" aria-label="Indian flag">
+            <span className="flag-chakra" />
+          </span>
         </Link>
         <nav className="main-nav" aria-label="Main navigation">
           <NavLink to="/" end>Overview</NavLink>
