@@ -1,100 +1,91 @@
-import {React,useState,useEffect} from 'react'
-import axios from 'axios';
-import {toast,ToastContainer} from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
+import { useState } from 'react'
+import api from '../api'
 import './page.scss'
-import Footer from '../components/Footer';
 
-function IPC() {
+function IpcPage() {
+  const [section, setSection] = useState('')
+  const [results, setResults] = useState([])
+  const [error, setError] = useState('')
+  const [loading, setLoading] = useState(false)
+  const [searched, setSearched] = useState(false)
 
-    const url = 'https://lawcodes.onrender.com';
-    // const url = 'http://localhost:3000';
-    const [ipc_law, setLaw] = useState('');
-    const [ans, setans] = useState([]);
-    const [ready,setready]=useState(false);
+  async function handleSubmit(event) {
+    event.preventDefault()
+    const sectionNumber = section.trim()
 
+    if (!sectionNumber) {
+      setError('Enter an IPC section number to search.')
+      setResults([])
+      setSearched(false)
+      return
+    }
 
-    // useEffect( () => {
+    setLoading(true)
+    setError('')
+    setSearched(true)
 
-    //     const effect = async ()=>{
-    //       try {
-    //         await axios.get(`${url}/getready`)
-    //         .then(()=>{
-    //           setready(true);
-    //           toast.success('We are Online', {
-    //             position: "top-right",
-    //             autoClose: 500,
-    //             hideProgressBar: true,
-    //           });
-    //         })
-    //       } catch (error) {
-    //         console.error(error);
-    //       }
-          
-    //     }
-    //     effect();
-    //   }, [url])
-      
-      const onchange = () => { 
-        const setchange = async () => {
-          await axios.post(`${url}/ipcSection`, {ipc_Section: ipc_law})
-          .then((response) => {
-            setLaw('');
-            setans(response.data);
-            console.log(response.data);
-            toast.success('Result Found!', {
-              position: "bottom-center",
-              autoClose: 1000,
-              hideProgressBar: true,
-            });
-          })
-          .catch((error) => {
-            toast.error('Enter Correct IPC!', {
-              position: "bottom-center",
-              autoClose: 1000,
-              hideProgressBar: true,
-            });
-            console.error(error);
-          });
-        }
-        setchange();
-      }
-
+    try {
+      const response = await api.post('/ipcSection', { ipc_Section: sectionNumber })
+      setResults(response.data)
+    } catch (requestError) {
+      setResults([])
+      setError(
+        requestError.response?.status === 404
+          ? `No IPC section was found for “${sectionNumber}”. Check the section and try again.`
+          : 'The conversion service could not be reached. Please try again shortly.',
+      )
+      console.error('IPC section lookup failed:', requestError)
+    } finally {
+      setLoading(false)
+    }
+  }
 
   return (
-    <>
-    <div className='Main'>
-    <div className="box">
-          <p>Find your  IPC to BNS </p>
-          <input 
-          type="text" 
-          placeholder="Enter the IPC Section here"
-          value={ipc_law}
-          onChange={(e) => setLaw(e.target.value)}
+    <main className="conversion-page">
+      <div className="conversion-heading">
+        <p className="eyebrow">IPC → BNS</p>
+        <h1>Find an IPC section</h1>
+        <p>Look up the corresponding section in the Bharatiya Nyaya Sanhita, 2023.</p>
+      </div>
+      <form className="conversion-form" onSubmit={handleSubmit}>
+        <label htmlFor="ipc-section">Indian Penal Code section</label>
+        <div className="form-controls">
+          <input
+            id="ipc-section"
+            type="text"
+            value={section}
+            onChange={(event) => setSection(event.target.value)}
+            placeholder="For example, 302 or 171B"
+            autoComplete="off"
+            aria-describedby="ipc-hint"
           />
-          <button onClick={onchange}>Convert</button>
+          <button type="submit" disabled={loading}>
+            {loading ? 'Searching…' : 'Find section'} {!loading && <span aria-hidden="true">→</span>}
+          </button>
         </div>
-        <div className="ans">
-          
-          <div className='result-box'> 
-          { (ans.length>0 )? ans.map(entry => (
-            <div className="card">
-              <h2>Result </h2>
-              <div key={entry.bnsSection} className="result-entry">
-              <p className='bns'><strong>BNS Section:</strong> {entry.bnsSection}</p>
-              <p className='sub'><strong>Subject:</strong> {entry.Subject}</p>
-              <p className='ipc'><strong>IPC Section:</strong> {entry.IpcSection}</p>
-              <p className='chnge'><strong>Change:</strong> {entry.change}</p>
-          </div>
-            </div>
-            
-  )) : <p>Please Enter Correct Ipc</p>}
-          </div>  
-        </div>
-    </div>
-    </>
-    
+        <p className="search-hint" id="ipc-hint">Enter the section number, including any letter suffix.</p>
+        {error && <p className="search-error" role="alert">{error}</p>}
+      </form>
+      {results.length > 0 && (
+        <section className="result-list" aria-live="polite">
+          <h2>Matching sections</h2>
+          {results.map((entry, index) => (
+            <article className="result-card" key={`${entry.bnsSection}-${index}`}>
+              <h3>BNS Section {entry.bnsSection}</h3>
+              <dl className="result-detail">
+                <dt>Subject</dt><dd>{entry.Subject || 'Not provided'}</dd>
+                <dt>IPC section</dt><dd>{entry.IpcSection}</dd>
+                <dt>Change</dt><dd>{entry.change || 'Not provided'}</dd>
+              </dl>
+            </article>
+          ))}
+        </section>
+      )}
+      {searched && !loading && !error && results.length === 0 && (
+        <p className="empty-state" role="status">No matching sections were returned.</p>
+      )}
+    </main>
   )
 }
 
-export default IPC
+export default IpcPage

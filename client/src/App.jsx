@@ -1,113 +1,152 @@
 import { useEffect, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import axios from 'axios'
-import  React from 'react';
-import './app.scss'
-import { GoLaw } from "react-icons/go";
-import {toast,ToastContainer} from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
+import { Link, NavLink, Navigate, Route, Routes } from 'react-router-dom'
+import { GoLaw } from 'react-icons/go'
+import api from './api'
+import { apiBaseUrl } from './api'
 import IPC from './Pages/IPC'
 import CRPC from './Pages/CRPC'
 import IEA from './Pages/IEA'
-import {Routes,Route,BrowserRouter as Router,Link} from "react-router-dom";
-import CircularProgress from '@mui/material/CircularProgress';
-import Box from '@mui/material/Box';
-import Footer from './components/Footer';
+import Footer from './components/Footer'
 
+const conversions = [
+  {
+    path: '/ipc',
+    shortName: 'IPC → BNS',
+    oldLaw: 'Indian Penal Code, 1860',
+    newLaw: 'Bharatiya Nyaya Sanhita, 2023',
+    description: 'Find the corresponding section in India’s updated penal code.',
+  },
+  {
+    path: '/crpc',
+    shortName: 'CrPC → BNSS',
+    oldLaw: 'Code of Criminal Procedure, 1973',
+    newLaw: 'Bharatiya Nagarik Suraksha Sanhita, 2023',
+    description: 'Compare criminal procedure sections across the two laws.',
+  },
+  {
+    path: '/iea',
+    shortName: 'IEA → BSA',
+    oldLaw: 'Indian Evidence Act, 1872',
+    newLaw: 'Bharatiya Sakshya Adhiniyam, 2023',
+    description: 'Look up the equivalent section in the new evidence law.',
+  },
+]
 
-function App() {
+function Home() {
+  const [serviceStatus, setServiceStatus] = useState('checking')
 
-  const url = 'https://lawcodes.onrender.com';
-  // const url = 'http://localhost:3000';
+  useEffect(() => {
+    let active = true
 
-  const [ipc_law, setLaw] = useState('');
-  const [ans, setans] = useState([]);
-  const [crpc_law, setLaw_crpc] = useState('');
-  const [ans1, setans1] = useState([]);
-  const [iea_law, setLaw_iea] = useState('');
-  const [ans2, setans2] = useState([]);
-  const [ready,setready]=useState(false);
-  useEffect( () => {
+    api.get('/')
+      .then(() => {
+        if (active) setServiceStatus('online')
+      })
+      .catch(() => {
+        if (active) setServiceStatus('offline')
+      })
 
-    const effect = async ()=>{
-      try {
-        await axios.get(`${url}/getready`)
-        .then(()=>{
-          setready(true);
-          toast.success('We are Online', {
-            position: "top-right",
-            autoClose: 500,
-            hideProgressBar: true,
-          });
-        })
-      } catch (error) {
-        console.error(error);
-      }
-      
+    return () => {
+      active = false
     }
-    effect();
-  }, [url])
-
-
+  }, [])
 
   return (
-    <>
-    <div className="main-1">
-    <ToastContainer/>
-    <div className='main'>
-      <div className="secondary-main">
-      <h2> <GoLaw className='image'/>Criminal Law Section Conversion</h2>
-      <div className="textdept">
-        <p> <strong>Welcome</strong> to our legal conversion tool, your comprehensive guide for navigating India's newly reformed criminal laws.
+    <main className="home">
+      <section className="hero">
+        <div className="hero-copy">
+          <p className="eyebrow">A simpler way to navigate legal updates</p>
+          <h1>Find the section.<br /><span>Understand the change.</span></h1>
+          <p className="hero-description">
+            Compare sections from India’s former criminal laws with their
+            counterparts in the new legal codes.
+          </p>
+          <a className="button button-primary" href="#converters">
+            Explore converters <span aria-hidden="true">↓</span>
+          </a>
+        </div>
+        <div className="hero-mark" aria-hidden="true">
+          <GoLaw />
+          <span>LAW<br />CODES</span>
+        </div>
+      </section>
 
-With the recent transition from the old criminal laws to newly passed criminal laws, many legal professionals and scholars face challenges in correlating old sections with their new counterparts.
+      <section className="converter-section" id="converters">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">Choose a conversion</p>
+            <h2>Three codes. One clear starting point.</h2>
+          </div>
+          <span className={`service-status service-status-${serviceStatus}`}>
+            <span className="status-dot" />
+            {serviceStatus === 'online' && 'Service online'}
+            {serviceStatus === 'checking' && 'Checking service'}
+            {serviceStatus === 'offline' && 'Service unavailable'}
+          </span>
+        </div>
 
-Our website simplifies this process by providing a seamless conversion system.</p>
-      <div className="steps">
-      <strong>Steps to Use Our Website : </strong>
-      <br />
-<br />
-1. <strong>Select the Law</strong>: Choose the specific law for conversion.
-<br />
-<br />
-2. <strong>Enter the Section Number</strong>: Type the section number of the old law which you want to convert with its new counterpart. For sections with letters, type them in capital letters without spaces <strong>(e.g., 171B)</strong>.
-<br />
-<br />
-3. <strong>Click Convert</strong>: Press the convert button to see the result.
-<br />
-<br />
-4. <strong>View Results</strong>: The new section number in the updated law will be displayed.
-<br />
-<br />
-Follow these steps to easily find the updated section numbers in the new legal frameworks.
-<br />
-<strong>Wait For the Notification to get the service started.</strong>
-      </div>
-      </div>
-      {(!ready)?        <Box sx={{ display: 'flex' }}>
-      <CircularProgress />
-    </Box> :<div className="heading">
-          <div className="ipc">
-            <Link to='/ipc' className="edit-profile">Indian Penal Code, 1860 to Bharatiya Nyaya Sanhita, 2023</Link>
-          </div>
-          <div className="crpc">
-            <Link to='/crpc' className="edit-profile">Code of Criminal Procedure, 1973 to Bharatiya Nagarik Suraksha Sanhita, 2023 </Link>
-          </div>
-          <div className="iea">
-            <Link to='/iea' className="edit-profile">Indian Evidence Act, 1872 to Bharatiya Sakshya Adhiniyam, 2023 </Link>
-          </div>
-        </div> 
-        }
-        
-      </div>
+        <div className="converter-grid">
+          {conversions.map((conversion, index) => (
+            <article className="converter-card" key={conversion.path}>
+              <div className="card-topline">
+                <span className="card-number">0{index + 1}</span>
+                <span className="card-arrow" aria-hidden="true">↗</span>
+              </div>
+              <p className="card-conversion">{conversion.shortName}</p>
+              <h3>{conversion.oldLaw}</h3>
+              <p className="card-to">to</p>
+              <h3>{conversion.newLaw}</h3>
+              <p className="card-description">{conversion.description}</p>
+              <Link className="card-link" to={conversion.path}>
+                Open converter <span aria-hidden="true">→</span>
+              </Link>
+            </article>
+          ))}
+        </div>
+      </section>
 
-      
+      <section className="how-it-works">
+        <p className="eyebrow">Quick and straightforward</p>
+        <h2>How it works</h2>
+        <ol>
+          <li><span>01</span><div><strong>Choose a code</strong><p>Select the law you want to look up.</p></div></li>
+          <li><span>02</span><div><strong>Enter a section</strong><p>Use the section number, including any letter suffix.</p></div></li>
+          <li><span>03</span><div><strong>Review the match</strong><p>See the corresponding section and comparison details.</p></div></li>
+        </ol>
+      </section>
+    </main>
+  )
+}
+
+function App() {
+  return (
+    <div className="site-shell">
+      <header className="site-header">
+        <Link className="brand" to="/" aria-label="LawCodes home">
+          <span className="brand-icon"><GoLaw /></span>
+          <span>Law<span className="brand-accent">Codes</span></span>
+        </Link>
+        <nav className="main-nav" aria-label="Main navigation">
+          <NavLink to="/" end>Overview</NavLink>
+          {conversions.map(({ path, shortName }) => (
+            <NavLink key={path} to={path}>{shortName}</NavLink>
+          ))}
+        </nav>
+        <a className="header-cta" href={`${apiBaseUrl}/`} target="_blank" rel="noreferrer">
+          API status <span aria-hidden="true">↗</span>
+        </a>
+      </header>
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/ipc" element={<IPC />} />
+        <Route path="/crpc" element={<CRPC />} />
+        <Route path="/iea" element={<IEA />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
+
+      <Footer />
     </div>
-    
-    </div>
-
-    </>
   )
 }
 
